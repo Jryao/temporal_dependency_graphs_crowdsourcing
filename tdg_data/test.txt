@@ -1,0 +1,3092 @@
+filename:<doc id="100837" url="https://en.wikinews.org/wiki?curid=100837" title="Wikileaks claims ‘abuse of process’ in court case that resulted in wikileaks.org being taken offline"><paragraph:1_3_5_6_8>:SNT_LIST
+February 29 , 2008
+Wikileaks has claimed in a press release that the Swiss bank , Bank Julius Baer & Trust , has abused the system by involving an administrator of the Wikileaks group on Facebook in the court case which has recently lead to a court injunction causing wikileaks.org DNS entry to be removed .
+As of this writing , Wikileaks could still be accessed via its IP address at <nowiki> http://88.80.13.160/wiki/wikileaks </nowiki> .
+The Facebook user who became involved in the court case has responded to this by saying that `` I am an officer of a Facebook group , which is essentially a message board for discussion of issues relating to Wikileaks .
+I am not , and never have been , an officer of Wikileaks , and I request you -LSB- Bank Julius Baer & Trust -RSB- not to represent that I am . ''
+Bank Julius Baer & Trust 's law firm said that `` as an officer of a defendant in this action , my client -LSB- Bank Julius Baer & Trust -RSB- is entitled to serve you -LSB- the Facebook User -RSB- a copy of the summons and complaint pursuant . ''
+In a different press release , Wikileaks stated that they were not sure of the authenticity of the documents from Bank Julius Baer & Trust until the court case started .
+They say that the bank `` in attempting to shoot the messenger has only succeeded , spectacularly , in shooting itself . ''
+The injunction , which a Wikileaks user describes as ` blind ' and ` unlawful ' was granted in the California Northern District Court in San Francisco , California .
+The case was regarding several documents allegedly obtained from a whistleblower of the Bank Julius Baer & Trust .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_38_38	Timex	0_0_3	Depend-on
+1_2_2	Event	0_0_3	before
+1_6_6	Event	0_0_3	before
+1_19_19	Event	0_0_3	before
+1_23_23	Event	0_0_3	before
+1_39_39	Event	1_38_38	included
+1_43_43	Event	1_38_38	included
+1_50_50	Event	1_38_38	included
+2_3_3	Event	0_0_3	overlap
+3_4_4	Event	0_0_3	before
+3_5_5	Event	0_0_3	before
+3_11_11	Event	0_0_3	before
+3_15_15	Event	0_0_3	before
+5_8_8	Event	0_0_3	before
+5_19_19	Event	0_0_3	before
+6_4_4	Event	0_0_3	before
+6_7_7	Event	0_0_3	before
+7_1_1	Event	0_0_3	overlap
+7_14_14	Event	0_0_3	before
+7_19_19	Event	0_0_3	before
+8_1_1	Event	0_0_3	before
+8_7_7	Event	0_0_3	overlap
+9_7_7	Event	0_0_3	before
+1_2_2	Event	-1_-1_-1	Depend-on
+1_6_6	Event	1_2_2	overlap
+1_19_19	Event	1_6_6	before
+1_23_23	Event	1_19_19	overlap
+1_39_39	Event	-1_-1_-1	Depend-on
+1_43_43	Event	1_39_39	overlap
+1_50_50	Event	1_43_43	after
+2_3_3	Event	1_43_43	after
+3_4_4	Event	-1_-1_-1	Depend-on
+3_5_5	Event	3_4_4	overlap
+3_11_11	Event	-1_-1_-1	Depend-on
+3_15_15	Event	3_11_11	overlap
+5_8_8	Event	-1_-1_-1	Depend-on
+5_19_19	Event	-1_-1_-1	Depend-on
+6_4_4	Event	-1_-1_-1	Depend-on
+6_7_7	Event	6_4_4	overlap
+7_1_1	Event	-1_-1_-1	Depend-on
+7_14_14	Event	7_1_1	before
+7_19_19	Event	7_14_14	overlap
+8_1_1	Event	-1_-1_-1	Depend-on
+8_7_7	Event	8_1_1	after
+9_7_7	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="106004" url="https://en.wikinews.org/wiki?curid=106004" title="Coordinated series of bombs kills at least 80 in India"><paragraph:1_3_6_8_11>:SNT_LIST
+May 14 , 2008
+According to police sources , a series of seven coordinated bombs detonated in Jaipur , the capital of the state Rajasthan , in India on Tuesday , May 13 .
+At least eighty people were killed and over two hundred injured in the attacks .
+The bombs went off over a period of twenty minutes and tore through the city 's crowded bazaars , beginning at 7:20 p.m. IST -LRB- UTC +5:30 -RRB- .
+An eighth bomb , which did not go off , was recovered .
+Ten of the dead were children .
+In the wake of the bombing , a daytime curfew has been in place .
+`` The curfew is a precaution to ensure peace , '' said Vasundhara Raje , the Chief Minister of Rajasthan .
+On Wednesday , two arrests were announced .
+`` We have arrested two people and have detained several more for questioning , '' said Vasundhara Raje .
+`` This seems to have been done by some international group , '' she added , in a comment that was intrepreted by `` The Daily Telegraph `` to suggest Pakistan-based Islamic militants .
+The President of Pakistan Pervez Musharraf and Prime Minister Yousaf Raza Gillani both condemned the Jaipur bombings .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_25_28	Timex	0_0_3	Depend-on
+3_8_9	Timex	0_0_3	Depend-on
+3_21_22	Timex	1_25_28	included
+3_26_26	Timex	1_25_28	included
+8_1_1	Timex	0_0_3	Depend-on
+1_11_11	Event	1_25_28	included
+2_5_5	Event	1_25_28	included
+2_10_10	Event	1_25_28	included
+2_13_13	Event	1_25_28	included
+3_2_2	Event	1_25_28	included
+3_11_11	Event	1_25_28	included
+4_11_11	Event	0_0_3	before
+6_5_5	Event	1_25_28	included
+7_11_11	Event	0_0_3	before
+8_4_4	Event	0_0_3	before
+8_6_6	Event	8_1_1	included
+9_3_3	Event	0_0_3	before
+9_8_8	Event	0_0_3	before
+9_15_15	Event	8_1_1	included
+10_14_14	Event	0_0_3	before
+10_18_18	Event	0_0_3	before
+10_21_21	Event	0_0_3	before
+11_13_13	Event	0_0_3	before
+11_16_16	Event	1_25_28	included
+1_11_11	Event	-1_-1_-1	Depend-on
+2_5_5	Event	1_11_11	overlap
+2_10_10	Event	2_5_5	overlap
+2_13_13	Event	2_10_10	overlap
+3_2_2	Event	-1_-1_-1	Depend-on
+3_11_11	Event	3_2_2	overlap
+4_11_11	Event	3_11_11	after
+6_5_5	Event	-1_-1_-1	Depend-on
+7_11_11	Event	6_5_5	after
+8_4_4	Event	-1_-1_-1	Depend-on
+8_6_6	Event	8_4_4	after
+9_3_3	Event	8_6_6	before
+9_8_8	Event	8_6_6	before
+9_15_15	Event	9_8_8	after
+10_14_14	Event	9_15_15	after
+10_18_18	Event	10_14_14	overlap
+10_21_21	Event	10_18_18	after
+11_13_13	Event	-1_-1_-1	Depend-on
+11_16_16	Event	11_13_13	before
+
+
+filename:<doc id="108227" url="https://en.wikinews.org/wiki?curid=108227" title="Gov. Bobby Jindal supports creationism as part of ‘the very best science’"><paragraph:1_3_5_6_7>:SNT_LIST
+June 17 , 2008
+Governor Bobby Jindal , a Republican politician from the U.S. state of Louisiana , appeared on CBS 's Face the Nation on Sunday and said he supports teaching intelligent design -LRB- ID -RRB- in public school as `` the very best science . ''
+Jindal , who was elected governor in 2007 , is a Hindu convert to Catholicism who takes the Bible literally .
+In his exchange on the Sunday morning talk show , `` Some want only to teach intelligent design , some only want to teach evolution .
+I think both views are wrong , as a parent . ''
+In a September 2007 debate he supported the view of creationism saying , `` Personally , it certainly makes sense to me that when you look at creation , you would believe in a creator . ''
+Recently , the Louisiana House of Representatives passed legislation , which the National Center for Science Education said `` opens the door to creationism in public school science classes . ''
+The bill is currently on his desk .
+Jindal is currently considered a possible Vice President candidate for John McCain 's U.S. Presidential campaign .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_22_22	Timex	0_0_3	Depend-on
+2_7_7	Timex	-1_-1_-1	Depend-on
+3_5_6	Timex	0_0_3	Depend-on
+5_2_3	Timex	-1_-1_-1	Depend-on
+6_0_0	Timex	0_0_3	Depend-on
+7_3_3	Timex	0_0_3	Depend-on
+8_2_2	Timex	0_0_3	Depend-on
+1_14_14	Event	1_22_22	included
+1_24_24	Event	1_22_22	included
+2_4_4	Event	2_7_7	included
+2_12_12	Event	0_0_3	before
+3_2_2	Event	3_5_6	included
+5_4_4	Event	5_2_3	included
+5_6_6	Event	5_2_3	included
+5_11_11	Event	5_2_3	included
+6_7_7	Event	6_0_0	included
+6_17_17	Event	6_0_0	included
+8_15_15	Event	0_0_3	overlap
+1_14_14	Event	-1_-1_-1	Depend-on
+1_24_24	Event	1_14_14	overlap
+2_4_4	Event	1_24_24	before
+2_12_12	Event	-1_-1_-1	Depend-on
+3_2_2	Event	-1_-1_-1	Depend-on
+5_4_4	Event	-1_-1_-1	Depend-on
+5_6_6	Event	5_4_4	overlap
+5_11_11	Event	5_6_6	overlap
+6_7_7	Event	-1_-1_-1	Depend-on
+6_17_17	Event	6_7_7	after
+8_15_15	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="110918" url="https://en.wikinews.org/wiki?curid=110918" title="Magnitude 6.0 earthquake in China kills three, injures dozens"><paragraph:1_2_4_6_8_9>:SNT_LIST
+August 6 , 2008
+An earthquake with a magnitude 6.0 that struck the area of Southern Qinghai , China on Tuesday , has killed at least three people and injured nearly 40 others .
+The United States Geological Survey -LRB- USGS -RRB- recorded the quake at 9:49 hours UTC -LRB- 5:49 a.m. at the epicenter -RRB- .
+The China Earthquake Networks Centre considers it an aftershock from the May 12 Sichuan earthquake .
+A bridge on a national highway was reported to be damaged , and communications were reported to have been severed .
+At least 3,200 homes were severely damaged or destroyed .
+The quake struck 45 kilometers -LRB- 25 miles -RRB- northwest of Guangyuan , Sichuan , near the town of Yaodu .
+It struck in the same area of China as the one on May 12 that killed at least 69,207 people and wounded another 374,468 , according to the English language edition of the `` People 's Online Daily '' .
+Data released by the USGS shows that the epicenter was near the G109 highway which connects Lhasa in the south and Xining and Lanzhou in the northwest , a distance of 2,020 km -LRB- 1,255 mi -RRB- , according to Google Maps China .
+Just over 12,000 aftershocks and small quakes have been recorded in the same area since May 12th .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_16_16	Timex	0_0_3	Depend-on
+2_12_12	Timex	1_16_16	included
+2_16_17	Timex	1_16_16	included
+3_11_12	Timex	0_0_3	Depend-on
+7_12_13	Timex	0_0_3	Depend-on
+9_15_16	Timex	0_0_3	Depend-on
+1_7_7	Event	1_16_16	included
+1_19_19	Event	0_0_3	before
+2_8_8	Event	2_12_12	included
+3_5_5	Event	0_0_3	overlap
+4_7_7	Event	0_0_3	before
+4_10_10	Event	1_16_16	included
+4_15_15	Event	0_0_3	before
+4_19_19	Event	0_0_3	before
+5_6_6	Event	1_16_16	included
+5_8_8	Event	1_16_16	included
+6_2_2	Event	1_16_16	included
+7_1_1	Event	1_16_16	included
+7_15_15	Event	0_0_3	before
+7_21_21	Event	0_0_3	before
+8_1_1	Event	0_0_3	before
+8_5_5	Event	0_0_3	overlap
+9_9_9	Event	9_15_16	after
+1_7_7	Event	-1_-1_-1	Depend-on
+1_19_19	Event	1_7_7	after
+2_8_8	Event	-1_-1_-1	Depend-on
+3_5_5	Event	2_8_8	after
+4_7_7	Event	-1_-1_-1	Depend-on
+4_10_10	Event	4_7_7	before
+4_15_15	Event	4_10_10	after
+4_19_19	Event	4_15_15	before
+5_6_6	Event	4_19_19	overlap
+5_8_8	Event	5_6_6	overlap
+6_2_2	Event	-1_-1_-1	Depend-on
+7_1_1	Event	6_2_2	overlap
+7_15_15	Event	7_1_1	before
+7_21_21	Event	7_15_15	overlap
+8_1_1	Event	-1_-1_-1	Depend-on
+8_5_5	Event	8_1_1	overlap
+9_9_9	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="12508" url="https://en.wikinews.org/wiki?curid=12508" title="U.S. Housing prices down 9% since February"><paragraph:1_3_5_7_13_15>:SNT_LIST
+June 26 , 2005
+The median house price in the United States plunged 6.5 % in May to $ 217,000 .
+In February of 2005 , the median price of a home was $ 237,300 .
+`` The Economist '' newspaper said in its June 16th issue ; `` In other words , it looks like the biggest bubble in history . ''
+by way of reference to what is happening with housing prices in the USA and much of Europe .
+Japan provides an example of how a boom can turn to bust .
+Property prices have dropped for 14 years in a row -LRB- 40 % from their peak in 1991 -RRB- ; and yet , the rise in prices in Japan during the decade before 1991 was less than the increase over the past ten years in most of today 's `` housing boom '' countries .
+The total value of residential property rose by more than $ 30 trillion over the past five years in developed economies , an increase equivalent to 100 % of the combined GDPs of those countries .
+This increase dwarfs all previous house-price booms and is greater than the global stockmarket bubble in the late 1990s .
+Much of the recent housing activity is being driven by speculative demand .
+The National Association of Realtors -LRB- NAR -RRB- reported that 23 % of all American houses bought in 2004 were for investment , not for owners to live in .
+Another 13 % were bought as second homes .
+NAR also found that 42 % of all first-time buyers made no down-payment on their home purchase last year .
+Many investors are buying solely because they think prices will keep rising , which is a warning sign of a financial bubble .
+In Miami , Florida , as many as half of the original buyers resell new apartments even before they are built , and properties can change hands two or three times before somebody finally moves in .
+Britain 's Royal Institution of Chartered Surveyors -LRB- RICS -RRB- reported prices have been falling for ten consecutive months .
+Forty nine percent of their surveyors reported falling prices in May .
+This was the weakest report since 1992 during Britain 's previous house-price bust .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_12_12	Timex	0_0_3	Depend-on
+2_1_3	Timex	-1_-1_-1	Depend-on
+3_8_9	Timex	0_0_3	Depend-on
+6_5_6	Timex	0_0_3	Depend-on
+6_17_17	Timex	-1_-1_-1	Depend-on
+6_33_33	Timex	-1_-1_-1	Depend-on
+6_39_43	Timex	0_0_3	Depend-on
+6_47_47	Timex	0_0_3	Depend-on
+7_13_17	Timex	0_0_3	Depend-on
+8_16_18	Timex	-1_-1_-1	Depend-on
+9_3_3	Timex	0_0_3	Depend-on
+10_18_18	Timex	-1_-1_-1	Depend-on
+12_17_18	Timex	0_0_3	Depend-on
+16_10_10	Timex	0_0_3	Depend-on
+17_6_6	Timex	-1_-1_-1	Depend-on
+1_8_8	Event	1_12_12	included
+3_5_5	Event	3_8_9	included
+5_1_1	Event	0_0_3	overlap
+6_3_3	Event	6_17_17	after
+6_24_24	Event	6_33_33	before
+6_38_38	Event	0_0_3	before
+7_6_6	Event	0_0_3	before
+7_23_23	Event	0_0_3	before
+8_1_1	Event	0_0_3	before
+8_2_2	Event	0_0_3	before
+9_5_5	Event	9_3_3	included
+9_8_8	Event	0_0_3	overlap
+10_8_8	Event	0_0_3	before
+10_16_16	Event	10_18_18	included
+11_4_4	Event	10_18_18	included
+12_2_2	Event	12_17_18	included
+12_16_16	Event	12_17_18	included
+13_3_3	Event	0_0_3	overlap
+15_10_10	Event	0_0_3	before
+15_14_14	Event	0_0_3	overlap
+16_6_6	Event	16_10_10	included
+16_7_7	Event	0_0_3	before
+17_4_4	Event	17_6_6	after
+17_12_12	Event	17_6_6	included
+1_8_8	Event	-1_-1_-1	Depend-on
+3_5_5	Event	-1_-1_-1	Depend-on
+5_1_1	Event	-1_-1_-1	Depend-on
+6_3_3	Event	-1_-1_-1	Depend-on
+6_24_24	Event	6_3_3	before
+6_38_38	Event	6_24_24	after
+7_6_6	Event	-1_-1_-1	Depend-on
+7_23_23	Event	7_6_6	overlap
+8_1_1	Event	7_23_23	overlap
+8_2_2	Event	8_1_1	overlap
+9_5_5	Event	-1_-1_-1	Depend-on
+9_8_8	Event	9_5_5	overlap
+10_8_8	Event	-1_-1_-1	Depend-on
+10_16_16	Event	10_8_8	before
+11_4_4	Event	10_8_8	before
+12_2_2	Event	-1_-1_-1	Depend-on
+12_16_16	Event	12_2_2	before
+13_3_3	Event	-1_-1_-1	Depend-on
+15_10_10	Event	-1_-1_-1	Depend-on
+15_14_14	Event	15_10_10	overlap
+16_6_6	Event	15_10_10	overlap
+16_7_7	Event	16_6_6	before
+17_4_4	Event	16_6_6	overlap
+17_12_12	Event	17_4_4	before
+
+
+filename:<doc id="127917" url="https://en.wikinews.org/wiki?curid=127917" title="Yemeni troops search for missing hostages"><paragraph:1_2_5_7_8>:SNT_LIST
+June 16 , 2009
+Today , the Yemeni embassy in the United States announced that Yemeni troops and air support had been dispatched to search for six missing hostages , after three bodies were found on Saturday .
+Reports suggest that the group of nine were having a picnic on Friday when they were abducted in the Saada province of Yemen .
+The three bodies discovered were those of a South Korean teacher and two German nurses .
+The missing six are believed to consist of five Germans , of whom three are children and a Briton .
+A spokesman for the Yemeni Embassy said '' -LSB- The foreigners -RSB- ventured outside the city of Saada without the required police escorts due to the heightened security situation in the area .
+This event was a heinous crime and constitutes not only a violation against the peaceful principles of Islam , but also the precepts of humanity . ''
+It is currently unknown who is responsible for the kidnapping , with both Shiite rebels and drugs cartels being accused .
+Yemen has suffered a string of kidnappings , normally of foreigners , although to date all were released unharmed .
+This would be the first instance first year of hostages being killed .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_0_0	Timex	0_0_3	Depend-on
+1_32_32	Timex	0_0_3	Depend-on
+2_12_12	Timex	0_0_3	Depend-on
+7_2_2	Timex	0_0_3	Depend-on
+1_9_9	Event	1_0_0	included
+1_18_18	Event	1_0_0	included
+1_20_20	Event	1_0_0	included
+1_30_30	Event	1_32_32	included
+2_1_1	Event	0_0_3	overlap
+3_3_3	Event	1_32_32	included
+5_6_6	Event	0_0_3	before
+5_12_12	Event	2_12_12	included
+6_1_1	Event	2_12_12	included
+6_11_11	Event	0_0_3	overlap
+7_9_9	Event	2_12_12	included
+7_19_19	Event	7_2_2	included
+8_2_2	Event	0_0_3	before
+8_6_6	Event	0_0_3	before
+8_17_17	Event	0_0_3	before
+9_5_5	Event	2_12_12	included
+9_11_11	Event	0_0_3	before
+1_9_9	Event	-1_-1_-1	Depend-on
+1_18_18	Event	1_9_9	before
+1_20_20	Event	1_18_18	after
+1_30_30	Event	1_18_18	before
+2_1_1	Event	-1_-1_-1	Depend-on
+3_3_3	Event	-1_-1_-1	Depend-on
+5_6_6	Event	-1_-1_-1	Depend-on
+5_12_12	Event	5_6_6	before
+6_1_1	Event	5_6_6	before
+6_11_11	Event	6_1_1	overlap
+7_9_9	Event	-1_-1_-1	Depend-on
+7_19_19	Event	7_9_9	after
+8_2_2	Event	-1_-1_-1	Depend-on
+8_6_6	Event	8_2_2	overlap
+8_17_17	Event	8_6_6	overlap
+9_5_5	Event	8_17_17	after
+9_11_11	Event	9_5_5	overlap
+
+
+filename:<doc id="13081" url="https://en.wikinews.org/wiki?curid=13081" title="Norway and Denmark conducting observation flights over Belarus and Russia"><paragraph:1_3_6>:SNT_LIST
+June 28 , 2005
+In accordance with the Treaty on Open Skies , Norway and Denmark started conducting observation flights over Belarus and Russia yesterday .
+These flights are expected to last until July 1 , with seven Belarusian and two Russian inspectors monitoring foreign planes .
+The treaty establishes a program of unarmed aerial surveillance flights over the entire territory of its 34 state participants .
+The treaty is designed to enhance mutual understanding and confidence by giving all participants , regardless of size , a direct role in gathering information about military forces and activities of concern to them .
+Russia and Belarus signed the treaty in 1992 in Helsinki .
+According to the spokesman of Belarusian Ministry of Defense , Russia and Belarus have finished their analogous flight over the USA on June 25 .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_20_20	Timex	0_0_3	Depend-on
+2_7_8	Timex	0_0_3	Depend-on
+5_7_7	Timex	-1_-1_-1	Depend-on
+6_22_23	Timex	0_0_3	Depend-on
+1_12_12	Event	1_20_20	included
+1_13_13	Event	1_20_20	included
+1_15_15	Event	1_20_20	included
+2_1_1	Event	2_7_8	before
+2_17_17	Event	2_7_8	before
+3_1_1	Event	0_0_3	before
+3_2_2	Event	0_0_3	overlap
+4_1_1	Event	0_0_3	before
+5_3_3	Event	5_7_7	included
+6_14_14	Event	6_22_23	included
+1_12_12	Event	-1_-1_-1	Depend-on
+1_13_13	Event	1_12_12	overlap
+1_15_15	Event	1_13_13	overlap
+2_1_1	Event	1_15_15	overlap
+2_17_17	Event	2_1_1	overlap
+3_1_1	Event	-1_-1_-1	Depend-on
+3_2_2	Event	3_1_1	overlap
+4_1_1	Event	3_1_1	overlap
+5_3_3	Event	4_1_1	overlap
+6_14_14	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="146196" url="https://en.wikinews.org/wiki?curid=146196" title="US university Penn State wins 2009 NCAA Division I volleyball championship"><paragraph:1_2_3_5_6_9_11>:SNT_LIST
+December 20 , 2009
+Erasing a two-set deficit , the Penn State University Nittany Lions came from behind in dramatic fashion to win the 2009 NCAA Division 1 women 's volleyball championship over the University of Texas Longhorns , held Dec. 19 in Tampa , Florida .
+Down 2-0 , Penn State won the next three sets to extend their winning streak to 102 matches and in the process earning their third consecutive volleyball title .
+Texas ' Destinee Hooker led all players with 34 kills , .316 hitting percentage and collected 17 digs .
+National volleyball Player of the Year Megan Hodges led the Nittany Lions with 21 kills , 13 digs and 5 blocks .
+The set scores were 22-25 , 20-25 , 25-23 , 25-21 , 15-13 .
+Penn State , the top-ranked team in the country , had a fairly easy route to the title game , beating all but of their opponents in straight sets .
+In the first and second rounds , they defeated Binghamton and the University of Pennsylvania in straight sets , before sweeping Florida and California in regional action .
+In the semi finals , they dropped their only set of the playoffs in a 3-1 victory over Hawaii .
+No. 2 Texas ' route to the championship game was as easy , defeating Texas St. -LRB- 3-0 -RRB- and Texas Christian -LRB- 3-0 -RRB- in the first two rounds .
+In regional action , the Longhorns defeated Texas A&M -LRB- 3-0 -RRB- and Nebraska -LRB- 3-1 -RRB- to reach the semi final , where they swept Minnesota -LRB- 3-0 -RRB- .
+The win was also number 1,001 for Penn State coach Russ Rose .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_20_20	Timex	-1_-1_-1	Depend-on
+1_36_37	Timex	0_0_3	Depend-on
+1_0_0	Event	1_36_37	included
+1_11_11	Event	1_36_37	included
+1_18_18	Event	1_36_37	included
+1_35_35	Event	1_36_37	included
+2_5_5	Event	1_36_37	included
+2_11_11	Event	1_36_37	included
+2_22_22	Event	1_36_37	included
+3_4_4	Event	1_36_37	included
+3_9_9	Event	1_36_37	included
+3_15_15	Event	1_36_37	included
+4_8_8	Event	1_36_37	included
+4_14_14	Event	1_36_37	included
+6_10_10	Event	1_20_20	included
+6_20_20	Event	1_20_20	included
+7_8_8	Event	1_20_20	included
+7_26_26	Event	1_20_20	included
+8_3_3	Event	1_20_20	included
+8_6_6	Event	1_20_20	included
+8_12_12	Event	1_20_20	included
+8_16_16	Event	1_20_20	included
+9_13_13	Event	1_20_20	included
+10_2_2	Event	1_20_20	included
+10_6_6	Event	1_20_20	included
+10_18_18	Event	1_20_20	included
+10_21_21	Event	1_20_20	included
+10_25_25	Event	1_20_20	included
+11_1_1	Event	1_36_37	included
+1_0_0	Event	-1_-1_-1	Depend-on
+1_11_11	Event	1_0_0	overlap
+1_18_18	Event	1_11_11	after
+1_35_35	Event	1_11_11	overlap
+2_5_5	Event	-1_-1_-1	Depend-on
+2_11_11	Event	2_5_5	overlap
+2_22_22	Event	2_11_11	overlap
+3_4_4	Event	-1_-1_-1	Depend-on
+3_9_9	Event	3_4_4	overlap
+3_15_15	Event	3_9_9	overlap
+4_8_8	Event	3_4_4	overlap
+4_14_14	Event	4_8_8	overlap
+6_10_10	Event	-1_-1_-1	Depend-on
+6_20_20	Event	6_10_10	overlap
+7_8_8	Event	6_20_20	overlap
+7_26_26	Event	7_8_8	after
+8_3_3	Event	7_26_26	after
+8_6_6	Event	8_3_3	overlap
+8_12_12	Event	8_6_6	overlap
+8_16_16	Event	8_12_12	overlap
+9_13_13	Event	-1_-1_-1	Depend-on
+10_2_2	Event	9_13_13	after
+10_6_6	Event	10_2_2	overlap
+10_18_18	Event	10_6_6	after
+10_21_21	Event	10_18_18	overlap
+10_25_25	Event	10_21_21	overlap
+11_1_1	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="15234" url="https://en.wikinews.org/wiki?curid=15234" title="Concerns over China Oil subsidiary of Unocal buying into US Energy infrastructure"><paragraph:1_4_7>:SNT_LIST
+July 16 , 2005
+At a U.S. House Armed Services Committee meeting broadcast on `` CSPAN '' , former CIA Director Woolsey talked about the 18.5 billion dollar bid by the government-backed China National Offshore Oil Corporation -LRB- CNOOC -RRB- for the purchase of Unocal Corporation .
+He said this is definitely a strategic energy power move by China , and it was not for economic gain .
+Others are still worried about EMP .
+U.S. Treasury Secretary John Snow heads a committee that can block the takeover .
+The U.S. House of Representatives passed a measure in June by a wide margin to form the committee under Snow .
+U.S. national security concerns are at stake according to analysts and many conservatives .
+The United States reluctance to allow China 's unsolicited bid for an American oil company surprises some .
+When Russia claimed their own oil companies could not be bought by Americans for both `` strategic '' and `` national security '' reasons , the United States was vehemently opposed to that position .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+5_9_9	Timex	0_0_3	Depend-on
+1_8_8	Event	0_0_3	before
+1_18_18	Event	0_0_3	before
+1_24_24	Event	0_0_3	before
+2_1_1	Event	0_0_3	before
+2_9_9	Event	0_0_3	overlap
+4_5_5	Event	0_0_3	overlap
+5_5_5	Event	5_9_9	included
+7_9_9	Event	0_0_3	before
+8_2_2	Event	0_0_3	before
+1_8_8	Event	-1_-1_-1	Depend-on
+1_18_18	Event	1_8_8	overlap
+1_24_24	Event	1_18_18	before
+2_1_1	Event	1_18_18	overlap
+2_9_9	Event	2_1_1	before
+4_5_5	Event	-1_-1_-1	Depend-on
+5_5_5	Event	-1_-1_-1	Depend-on
+7_9_9	Event	-1_-1_-1	Depend-on
+8_2_2	Event	7_9_9	before
+
+
+filename:<doc id="1543" url="https://en.wikinews.org/wiki?curid=1543" title="Calvin Murphy acquitted of molestation charges"><paragraph:1_2_5_7_10_12_13_15>:SNT_LIST
+December 6 , 2004
+Former Houston Rockets star Calvin Murphy , accused of molestation by five of daughters , was found not guilty by the jury , putting an end to the eight-month long trial .
+The alleged incidents took place more than ten years ago , when the daughters , who are now grown , ranged in age from 6 to 16 .
+They accused Murphy of fondling them and performing oral sex on them .
+Murphy has 14 children by nine women .
+Murphy 's attorney claimed that the women 's accusations were false and that they were bitter because he did not treat them the same as he treated the children born to his ex-wife .
+Murphy 's two daughters who were products of his previous marriage came to his defense .
+The jury indicated that they found the women 's statements unreliable .
+The former basketball star 's lawyers said three of the five daughters had been trying to claim $ 52,408 in death benefits left in a teachers retirement account belonging to their mother , Phyllis Davidson .
+Murphy had a 20-year relationship and four children with Davidson , who died in a car accident in 1996 .
+This year , the three daughters continued their grandmother 's attempt to stop Murphy from receiving the benefits .
+He was listed as the account 's beneficiary , according to court records .
+On Feb. 20 , letters went to Murphy , his three daughters and their grandmother that Murphy was the account 's rightful beneficiary .
+The money was never paid .
+A month later , Murphy was arrested and charged with sexual abuse and indecency .
+Because of the nature of the accusations , Murphy lost his job with the Houston Rockets , where he was a TV commentator .
+Murphy has not commented about if he has plans to return to a broadcasting career .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_27_28	Timex	0_0_3	Depend-on
+2_5_9	Timex	0_0_3	Depend-on
+2_17_17	Timex	0_0_3	Depend-on
+9_3_3	Timex	0_0_3	Depend-on
+9_18_18	Timex	-1_-1_-1	Depend-on
+10_0_1	Timex	0_0_3	Depend-on
+12_1_2	Timex	0_0_3	Depend-on
+14_0_1	Timex	0_0_3	Depend-on
+1_7_7	Event	0_0_3	before
+1_9_9	Event	0_0_3	before
+1_16_16	Event	0_0_3	before
+1_23_23	Event	0_0_3	before
+1_25_25	Event	0_0_3	before
+1_30_30	Event	0_0_3	before
+2_2_2	Event	2_5_9	included
+2_3_3	Event	2_5_9	included
+3_1_1	Event	0_0_3	before
+5_3_3	Event	0_0_3	before
+5_26_26	Event	0_0_3	before
+5_29_29	Event	0_0_3	before
+6_10_10	Event	0_0_3	before
+6_11_11	Event	0_0_3	before
+7_2_2	Event	0_0_3	before
+7_5_5	Event	0_0_3	before
+7_9_9	Event	0_0_3	before
+8_6_6	Event	0_0_3	before
+9_1_1	Event	0_0_3	before
+9_12_12	Event	9_18_18	included
+9_16_16	Event	9_18_18	included
+10_6_6	Event	10_0_1	included
+11_2_2	Event	0_0_3	before
+12_5_5	Event	12_1_2	included
+14_6_6	Event	0_0_3	before
+14_8_8	Event	0_0_3	before
+15_9_9	Event	0_0_3	before
+1_7_7	Event	-1_-1_-1	Depend-on
+1_9_9	Event	1_7_7	before
+1_16_16	Event	1_7_7	after
+1_23_23	Event	1_16_16	overlap
+1_25_25	Event	1_23_23	overlap
+1_30_30	Event	1_25_25	overlap
+2_2_2	Event	-1_-1_-1	Depend-on
+2_3_3	Event	2_2_2	overlap
+3_1_1	Event	2_3_3	after
+5_3_3	Event	1_7_7	after
+5_26_26	Event	5_3_3	before
+5_29_29	Event	5_26_26	before
+6_10_10	Event	5_29_29	overlap
+6_11_11	Event	5_29_29	after
+7_2_2	Event	1_7_7	after
+7_5_5	Event	7_2_2	before
+7_9_9	Event	7_5_5	before
+8_6_6	Event	-1_-1_-1	Depend-on
+9_1_1	Event	8_6_6	before
+9_12_12	Event	-1_-1_-1	Depend-on
+9_16_16	Event	9_12_12	overlap
+10_6_6	Event	-1_-1_-1	Depend-on
+11_2_2	Event	10_6_6	before
+12_5_5	Event	-1_-1_-1	Depend-on
+14_6_6	Event	12_5_5	after
+14_8_8	Event	14_6_6	after
+15_9_9	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="217409" url="https://en.wikinews.org/wiki?curid=217409" title="NuCaptcha introduces a video captcha service, ads included"><paragraph:1_4_8_12_14_17>:SNT_LIST
+November 3 , 2010
+A British Columbia company NuCaptcha launched a video-based animated CAPTCHA service to test whether users are humans or robots .
+As the company says , it is easier to recognise for humans and more difficult to decipher .
+Many companies supply the users of the service with video and text of advertising content , since the image is what the users have to view to proceed with the service they 're using .
+According to NuCaptcha , the moving image does n't need to be as clear as static images .
+With a random video background and big-sized moving text , the blurred text turned out to be easier to be recognized by the brain .
+The researchers say same text is n't that easily recongised when it 's static .
+Therefore , the image is more complicated to process or abuse , while still being easily readable , NuCaptcha says .
+The image , as most modern videos , has a significantly bigger size than previously used static images .
+If often opens in a popup window .
+The bigger size improves accessibility .
+As news reporters say , the CAPTCHAs are now easy to use even for older people with vision impairments .
+The website administrators have to get a database of videos and text material for use with the new technology .
+In reaction to this demand , a number of companies supply the webmasters with advertising videos for use as the text background .
+The Captchas need full attention of the user to solve .
+The ads are also not blocked incidentally by security tools like NoScript .
+The service is seen as a niche for successful advertising , and is favored by advertisement providers along with the webmasters .
+Electronic Arts , Activision and Disney are among the current list of companies which give out the videos and text for NuCaptcha .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+11_8_8	Timex	0_0_3	Depend-on
+17_9_9	Timex	0_0_3	Depend-on
+1_5_5	Event	0_0_3	before
+2_3_3	Event	0_0_3	overlap
+6_2_2	Event	0_0_3	overlap
+7_19_19	Event	0_0_3	overlap
+13_1_1	Event	0_0_3	overlap
+13_10_10	Event	0_0_3	overlap
+17_14_14	Event	0_0_3	overlap
+1_5_5	Event	-1_-1_-1	Depend-on
+2_3_3	Event	-1_-1_-1	Depend-on
+6_2_2	Event	-1_-1_-1	Depend-on
+7_19_19	Event	-1_-1_-1	Depend-on
+13_1_1	Event	-1_-1_-1	Depend-on
+13_10_10	Event	13_1_1	overlap
+17_14_14	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="221715" url="https://en.wikinews.org/wiki?curid=221715" title="Robbery suspect flees on riding mower"><paragraph:1_3_6_7_10>:SNT_LIST
+November 19 , 2010
+After allegedly robbing a convenience store yesterday morning in Aiken County , South Carolina , United States , a man fled the scene on a riding lawnmower .
+Police apprehended the suspect near the scene .
+According to the Aiken County Sheriff 's Office , Ricky New entered the store carrying a large stick , demanded money , assaulted the clerk with the stick , and left with an undisclosed amount of money .
+He then tried to make his getaway on a Craftsman mower .
+His face was concealed by a towel , but Ricky New lives nearby and the clerk identified him promptly after the incident .
+New has been charged with armed robbery , and first degree assault and battery .
+Captain Troy Elwell , a spokesman for the Sheriff 's Office , said `` Never seen anything quite like this one .
+I 've seen some strange cases , but a getaway vehicle as a lawnmower .
+That does n't take a whole lot of thought to figure out that you 're not going to get too far on it . ''
+`` I 'm getting a good amount of calls on this '' , he also said .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_6_7	Timex	0_0_3	Depend-on
+1_2_2	Event	1_6_7	included
+1_20_20	Event	1_6_7	included
+2_1_1	Event	0_0_3	before
+3_11_11	Event	1_6_7	included
+3_14_14	Event	1_6_7	included
+3_19_19	Event	1_6_7	included
+3_22_22	Event	1_6_7	included
+3_30_30	Event	1_6_7	included
+5_3_3	Event	1_6_7	included
+5_16_16	Event	0_0_3	before
+5_21_21	Event	1_6_7	included
+6_3_3	Event	0_0_3	before
+6_6_6	Event	1_6_7	included
+7_12_12	Event	0_0_3	before
+8_2_2	Event	0_0_3	before
+10_3_3	Event	0_0_3	before
+10_8_8	Event	0_0_3	before
+10_15_15	Event	0_0_3	before
+1_2_2	Event	-1_-1_-1	Depend-on
+1_20_20	Event	1_2_2	after
+2_1_1	Event	1_20_20	after
+3_11_11	Event	-1_-1_-1	Depend-on
+3_14_14	Event	3_11_11	overlap
+3_19_19	Event	3_11_11	after
+3_22_22	Event	3_11_11	after
+3_30_30	Event	3_22_22	after
+5_3_3	Event	1_2_2	overlap
+5_16_16	Event	-1_-1_-1	Depend-on
+5_21_21	Event	5_16_16	before
+6_3_3	Event	-1_-1_-1	Depend-on
+6_6_6	Event	6_3_3	before
+7_12_12	Event	-1_-1_-1	Depend-on
+8_2_2	Event	7_12_12	before
+10_3_3	Event	-1_-1_-1	Depend-on
+10_8_8	Event	10_3_3	overlap
+10_15_15	Event	10_3_3	overlap
+
+
+filename:<doc id="22214" url="https://en.wikinews.org/wiki?curid=22214" title="Gwanda Chakuamba freed by Malawi court"><paragraph:1_3_6>:SNT_LIST
+September 17 , 2005
+A court has freed prominent Malawian politician Gwanda Chakuamba on bail after Chakuamba denied ridiculing Malawi president Bingu wa Mutharika at a political rally .
+Ridiculing the head of state is a crime in Malawi , with a potential penalty ranging from a $ 20 fine to three years in prison .
+Prosecutor Mcleod Mlonda objected to the ruling , stating that he was worried that as Chakuamba was an influential figure , he would use his freedom to tamper with the evidence .
+Magistrate David Kadwa disagreed though , stating that he found it unlikely that Chakuamba would be able to interfere with the evidence , as there had been hundreds of witnesses present when the alleged comments were made .
+For his part , Chakuamba has denied the charges .
+Chakuamba was ejected from Malawi 's cabinet for allegedly buying a limousine with government funds last week , amid rumours of an internal power struggle .
+Prosecutors accuse him of labelling the President a `` drunkard and a brute '' .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+2_22_23	Timex	0_0_3	Depend-on
+6_15_16	Timex	0_0_3	Depend-on
+1_3_3	Event	0_0_3	before
+1_13_13	Event	0_0_3	before
+3_8_8	Event	0_0_3	before
+4_6_6	Event	0_0_3	before
+4_9_9	Event	0_0_3	before
+4_30_30	Event	0_0_3	before
+4_34_34	Event	0_0_3	before
+4_36_36	Event	0_0_3	before
+5_6_6	Event	0_0_3	before
+5_8_8	Event	0_0_3	before
+6_2_2	Event	6_15_16	included
+6_9_9	Event	6_15_16	included
+6_19_19	Event	6_15_16	included
+7_1_1	Event	0_0_3	overlap
+7_4_4	Event	0_0_3	before
+1_3_3	Event	-1_-1_-1	Depend-on
+1_13_13	Event	1_3_3	before
+3_8_8	Event	1_3_3	after
+4_6_6	Event	3_8_8	after
+4_9_9	Event	4_6_6	overlap
+4_30_30	Event	4_9_9	before
+4_34_34	Event	4_30_30	overlap
+4_36_36	Event	4_34_34	overlap
+5_6_6	Event	4_36_36	after
+5_8_8	Event	5_6_6	before
+6_2_2	Event	-1_-1_-1	Depend-on
+6_9_9	Event	6_2_2	before
+6_19_19	Event	6_9_9	overlap
+7_1_1	Event	-1_-1_-1	Depend-on
+7_4_4	Event	7_1_1	before
+
+
+filename:<doc id="22495" url="https://en.wikinews.org/wiki?curid=22495" title="FDA recalls foreign meat used in aid for victims of Hurricane Katrina"><paragraph:1_2_4_8_11>:SNT_LIST
+September 26 , 2005
+The American Food and Drug Administration has recalled operational rations -LRB- MREs -RRB- donated by Britain to help survivors of Hurricane Katrina .
+The Daily Mirror insinuated that the majority of the 400,000 rations donated by Britain , at a cost of millions of pounds , are set to be destroyed at a plant in Little Rock , Arkansas .
+The Washington Times reported , on September 23 , 2005 , that a spokeswoman for the U.S. Department of Agriculture confirmed that the food was being held at the facility but denied any plans to incinerate the rations donated by Britain .
+Nevertheless , the move has infuriated aid workers who hasten to point out that `` Under NATO , American soldiers are also entitled to eat such rations , yet the starving of the American South will see them go up in smoke because of FDA red tape madness . ''
+One aid worker was quoted as saying that `` the world 's richest nation could n't organize a piss-up in a brewery and lets Americans starve while they arrogantly observe petty regulations .
+Everyone is revolted by the chaotic shambles the US is making of this crisis .
+Guys from UNICEF are walking around spitting blood . ''
+An FDA spokesman said the rations had not been inspected but were automatically deemed `` unfit for human consumption '' due to Bovine spongiform encephalopathy -LRB- BSE or colloquially `` mad cow disease '' -RRB- fears .
+He observed that 70 pallets of vegetarian MREs were inspected and approved on September 13th .
+Aid workers claim that , today , BSE is much more of a problem in the U.S. than in Britain .
+Food donations from Spain and Italy are also being held by the FDA due to similar concern , as well as thousands of gallons of pear juice from Israel .
+Licensing regulations have also prevented foreign nations from sending doctors and other medical personnel .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+3_6_9	Timex	-1_-1_-1	Depend-on
+9_13_14	Timex	0_0_3	Depend-on
+10_5_5	Timex	0_0_3	Depend-on
+1_7_7	Event	0_0_3	before
+1_13_13	Event	0_0_3	before
+2_3_3	Event	0_0_3	before
+2_11_11	Event	0_0_3	before
+2_17_17	Event	0_0_3	before
+2_24_24	Event	0_0_3	overlap
+2_27_27	Event	0_0_3	after
+3_3_3	Event	3_6_9	included
+3_20_20	Event	0_0_3	before
+3_26_26	Event	0_0_3	before
+3_31_31	Event	0_0_3	before
+3_38_38	Event	0_0_3	before
+4_3_3	Event	0_0_3	before
+4_5_5	Event	0_0_3	before
+4_9_9	Event	0_0_3	before
+4_11_11	Event	0_0_3	before
+4_36_36	Event	0_0_3	after
+4_38_38	Event	0_0_3	after
+5_4_4	Event	0_0_3	before
+5_6_6	Event	0_0_3	before
+6_2_2	Event	0_0_3	before
+6_6_6	Event	0_0_3	before
+6_10_10	Event	0_0_3	overlap
+6_13_13	Event	0_0_3	before
+8_3_3	Event	0_0_3	before
+9_1_1	Event	9_13_14	included
+9_9_9	Event	9_13_14	included
+9_11_11	Event	9_13_14	included
+10_2_2	Event	10_5_5	included
+11_1_1	Event	0_0_3	before
+11_9_9	Event	0_0_3	overlap
+12_4_4	Event	0_0_3	before
+1_7_7	Event	-1_-1_-1	Depend-on
+1_13_13	Event	1_7_7	before
+2_3_3	Event	-1_-1_-1	Depend-on
+2_11_11	Event	2_3_3	before
+2_17_17	Event	2_11_11	overlap
+2_24_24	Event	2_3_3	before
+2_27_27	Event	2_24_24	after
+3_3_3	Event	-1_-1_-1	Depend-on
+3_20_20	Event	3_3_3	before
+3_26_26	Event	3_20_20	overlap
+3_31_31	Event	3_26_26	overlap
+3_38_38	Event	3_31_31	before
+4_3_3	Event	-1_-1_-1	Depend-on
+4_5_5	Event	4_3_3	overlap
+4_9_9	Event	4_5_5	overlap
+4_11_11	Event	4_9_9	overlap
+4_36_36	Event	4_11_11	after
+4_38_38	Event	4_36_36	overlap
+5_4_4	Event	-1_-1_-1	Depend-on
+5_6_6	Event	5_4_4	before
+6_2_2	Event	5_6_6	overlap
+6_6_6	Event	6_2_2	before
+6_10_10	Event	6_6_6	overlap
+6_13_13	Event	6_10_10	overlap
+8_3_3	Event	-1_-1_-1	Depend-on
+9_1_1	Event	8_3_3	before
+9_9_9	Event	9_1_1	overlap
+9_11_11	Event	9_9_9	after
+10_2_2	Event	-1_-1_-1	Depend-on
+11_1_1	Event	-1_-1_-1	Depend-on
+11_9_9	Event	11_1_1	after
+12_4_4	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="232200" url="https://en.wikinews.org/wiki?curid=232200" title="US pool player Wade Crane dies in car accident age 66"><paragraph:1_4_6_8>:SNT_LIST
+December 30 , 2010
+US professional pool player Wade Crane has died after a one-car accident in Tennessee , USA .
+He was 66 years old .
+Crane 's Volkswagen crossed three lanes of traffic into the concrete retaining wall , then bounced back across five more lanes of traffic into another retaining wall .
+It is believed that Crane suffered from an undiagnosed medical condition .
+News of the crash was broken by The Knoxville News Sentinel .
+Crane was a former world champion of both 9-ball and 8-ball pool .
+A self-taught player , for 21 years he was the only person in pool history to shoot a perfect score in the finals of a major tournament .
+Fellow pool players including Nick Varner , Johnny Archer , and Shannon Daulton paid tribute to Crane .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+7_5_6	Timex	0_0_3	Depend-on
+1_7_7	Event	0_0_3	before
+1_11_11	Event	0_0_3	before
+3_3_3	Event	0_0_3	before
+3_7_7	Event	0_0_3	before
+3_15_15	Event	0_0_3	before
+3_22_22	Event	0_0_3	before
+4_5_5	Event	0_0_3	before
+5_3_3	Event	0_0_3	before
+5_5_5	Event	0_0_3	before
+6_5_5	Event	0_0_3	before
+7_16_16	Event	0_0_3	before
+7_22_22	Event	0_0_3	before
+7_26_26	Event	0_0_3	before
+8_13_13	Event	0_0_3	before
+1_7_7	Event	-1_-1_-1	Depend-on
+1_11_11	Event	1_7_7	before
+3_3_3	Event	1_11_11	overlap
+3_7_7	Event	3_3_3	overlap
+3_15_15	Event	3_3_3	after
+3_22_22	Event	3_15_15	overlap
+4_5_5	Event	-1_-1_-1	Depend-on
+5_3_3	Event	-1_-1_-1	Depend-on
+5_5_5	Event	5_3_3	after
+6_5_5	Event	-1_-1_-1	Depend-on
+7_16_16	Event	-1_-1_-1	Depend-on
+7_22_22	Event	7_16_16	overlap
+7_26_26	Event	7_22_22	overlap
+8_13_13	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="2526406" url="https://en.wikinews.org/wiki?curid=2526406" title="Former Miss Austria Ena Kadic dies after mountain fall"><paragraph:1_3_6_8>:SNT_LIST
+October 22 , 2015
+Ena Kadić , an Austrian woman who won the 2013 Miss Austria crown , died early this week in hospital .
+She was 26 and fell whilst jogging in the Austrian Alps on Friday .
+Kadić fell roughly 30m down the Bergisel mountain in Tyrol , near Innsbruck where she worked .
+She was taken to Innsbruck University Hospital with injuries to her head , pelvis , and lung .
+Remaining conscious after the fall , she had alerted her family via telephone who in turn contacted emergency services .
+She was found near the Drachenfelsen platform , which overlooks the River Sill .
+Police said she knew the area and enjoyed running ; a profile on the Miss Austria website said she was into sports and nature .
+The brown-haired , green-eyed beauty 's looks took her to compete in Bali , Indonesia in 2013 .
+Thereafter she shunned publicity and worked in a fashion store .
+`` The media , the events , the parties -- that life made me so unhappy , '' she said this year in a Seitenblicke interview .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_9_9	Timex	-1_-1_-1	Depend-on
+1_15_17	Timex	0_0_3	Depend-on
+2_12_12	Timex	0_0_3	Depend-on
+8_16_16	Timex	-1_-1_-1	Depend-on
+10_20_21	Timex	0_0_3	Depend-on
+1_7_7	Event	1_9_9	included
+1_14_14	Event	1_15_17	included
+2_4_4	Event	2_12_12	included
+2_6_6	Event	2_12_12	included
+3_1_1	Event	2_12_12	included
+4_2_2	Event	2_12_12	included
+5_4_4	Event	2_12_12	included
+5_8_8	Event	2_12_12	included
+5_16_16	Event	2_12_12	included
+6_2_2	Event	2_12_12	included
+7_1_1	Event	0_0_3	before
+7_17_17	Event	0_0_3	before
+8_7_7	Event	8_16_16	included
+8_10_10	Event	8_16_16	included
+9_2_2	Event	0_0_3	before
+9_5_5	Event	0_0_3	before
+10_5_5	Event	0_0_3	before
+10_19_19	Event	10_20_21	included
+10_25_25	Event	10_20_21	included
+1_7_7	Event	-1_-1_-1	Depend-on
+1_14_14	Event	1_7_7	after
+2_4_4	Event	1_14_14	before
+2_6_6	Event	2_4_4	overlap
+3_1_1	Event	-1_-1_-1	Depend-on
+4_2_2	Event	3_1_1	after
+5_4_4	Event	3_1_1	overlap
+5_8_8	Event	5_4_4	after
+5_16_16	Event	5_8_8	after
+6_2_2	Event	-1_-1_-1	Depend-on
+7_1_1	Event	6_2_2	after
+7_17_17	Event	-1_-1_-1	Depend-on
+8_7_7	Event	-1_-1_-1	Depend-on
+8_10_10	Event	8_7_7	overlap
+9_2_2	Event	8_10_10	after
+9_5_5	Event	9_2_2	overlap
+10_5_5	Event	9_5_5	overlap
+10_19_19	Event	-1_-1_-1	Depend-on
+10_25_25	Event	10_19_19	overlap
+
+
+filename:<doc id="253812" url="https://en.wikinews.org/wiki?curid=253812" title="Man charged with two counts of attempted murder in south London, England"><paragraph:1_3_6_9_11_12>:SNT_LIST
+April 2 , 2011
+Police in London , England , UK have charged a 19-year-old man with two counts of attempted murder .
+Anthony McCalla , from the district of Streatham , is accused of shooting Thusha Kamaleswaran , a five-year-old girl , and Roshan Selvakumar , 35 , in a shop in Stockwell , a southern district of the city .
+Kamaleswaran was shot in the chest , while Selvakumar was wounded in the head .
+Selvakumar is currently in stable condition .
+Kamaleswaran 's condition is listed as serious but stable .
+Both victims are Sri Lankan but are unrelated to each other .
+The incident took place after three youngsters on bicycles pursued two youths who sought cover inside the store .
+According to BBC News Online , investigators have discovered that Kamaleswaran 's mother , 12-year-old brother , and three-year-old sister were also inside the store during the shooting .
+McCalla is expected to appear before Camberwell Green Magistrates ' Court today .
+A second suspect in the shooting , a 14-year-old boy , remains under arrest on suspicion of attempted murder .
+For details which lead to those involved being caught , Crimestoppers is pledging a £ 50,000 reward .
+Sky News reported that Kamaleswaran is believed to be the youngest victim of a gun-related offence in London .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+4_2_2	Timex	0_0_3	Depend-on
+9_11_11	Timex	0_0_3	Depend-on
+1_8_8	Event	0_0_3	before
+2_10_10	Event	0_0_3	overlap
+3_2_2	Event	0_0_3	before
+3_10_10	Event	0_0_3	before
+5_4_4	Event	4_2_2	included
+7_1_1	Event	0_0_3	before
+7_2_2	Event	0_0_3	before
+7_9_9	Event	0_0_3	before
+7_13_13	Event	0_0_3	before
+8_8_8	Event	0_0_3	before
+10_11_11	Event	0_0_3	overlap
+10_13_13	Event	0_0_3	overlap
+11_8_8	Event	0_0_3	before
+12_2_2	Event	0_0_3	before
+12_15_15	Event	0_0_3	before
+1_8_8	Event	-1_-1_-1	Depend-on
+2_10_10	Event	-1_-1_-1	Depend-on
+3_2_2	Event	1_8_8	before
+3_10_10	Event	3_2_2	overlap
+5_4_4	Event	3_2_2	after
+7_1_1	Event	-1_-1_-1	Depend-on
+7_2_2	Event	7_1_1	overlap
+7_9_9	Event	7_2_2	before
+7_13_13	Event	7_9_9	overlap
+8_8_8	Event	7_2_2	after
+10_11_11	Event	-1_-1_-1	Depend-on
+10_13_13	Event	10_11_11	overlap
+11_8_8	Event	-1_-1_-1	Depend-on
+12_2_2	Event	-1_-1_-1	Depend-on
+12_15_15	Event	12_2_2	before
+
+
+filename:<doc id="27149" url="https://en.wikinews.org/wiki?curid=27149" title="Hostage standoff in North Reading, Massachusetts ends in tragedy"><paragraph:1_2_7_8_11_12>:SNT_LIST
+December 1 , 2005
+In what appeared to be a hostage situation ended in tragedy this afternoon in the quiet Massachusetts town of North Reading when the body of a 72-year old man , Roaldas Baran , and his 65-year old wife , Zinaida Girdauskiene , were found dead in an apparent murder-suicide at 14 Country Club Road .
+The situation began when a neighbor heard four gunshots and a woman screaming and called 9-1-1 .
+Police arrived at the home , and encountered the 72-year old man standing over , a brief conversation was held with the man who then went back inside the house .
+Then a fifth shot was fired .
+The SWAT team of the North Eastern Massachusetts Law Enforcement Council was brought in to clear the house and evacuate the surrounding houses .
+The Massachusetts State Police was also on hand .
+Martha Coakley , the District Attorney for Middlesex County , reported on what was found upon the SWAT team entering the house .
+`` In the bedroom , lying , apparently a victim of several gunshot wounds , was a female .
+We know her to be approximately 65-years-old .
+In the kitchen on the floor , also apparently the victim of a suicide , was a male we know now to be approximately 72-years-old who was her husband . ''
+Emily LaGrassa , Coxley 's spokeperson said the man apparently shot the woman and turned the gun on himself .
+Two guns were recovered .
+North Reading Police had been called to the house once before in August 2004 .
+The North Reading police are currently investigating further .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_11_12	Timex	0_0_3	Depend-on
+10_20_20	Timex	0_0_3	Depend-on
+13_12_13	Timex	-1_-1_-1	Depend-on
+14_5_5	Timex	0_0_3	Depend-on
+1_8_8	Event	1_11_12	included
+1_10_10	Event	1_11_12	included
+1_43_43	Event	1_11_12	included
+2_2_2	Event	0_0_3	before
+2_6_6	Event	0_0_3	before
+2_8_8	Event	1_11_12	included
+2_12_12	Event	1_11_12	included
+2_14_14	Event	1_11_12	included
+3_1_1	Event	1_11_12	included
+3_7_7	Event	1_11_12	included
+3_19_19	Event	1_11_12	included
+3_25_25	Event	1_11_12	included
+4_3_3	Event	1_11_12	included
+4_5_5	Event	1_11_12	included
+5_12_12	Event	0_0_3	before
+5_15_15	Event	0_0_3	before
+5_19_19	Event	0_0_3	before
+7_10_10	Event	0_0_3	before
+7_14_14	Event	0_0_3	before
+7_19_19	Event	0_0_3	before
+10_13_13	Event	1_11_12	included
+11_6_6	Event	0_0_3	before
+11_10_10	Event	1_11_12	included
+11_14_14	Event	1_11_12	included
+12_3_3	Event	0_0_3	before
+13_5_5	Event	13_12_13	included
+14_6_6	Event	14_5_5	included
+1_8_8	Event	-1_-1_-1	Depend-on
+1_10_10	Event	1_8_8	overlap
+1_43_43	Event	1_10_10	overlap
+2_2_2	Event	-1_-1_-1	Depend-on
+2_6_6	Event	2_2_2	overlap
+2_8_8	Event	2_6_6	before
+2_12_12	Event	2_8_8	overlap
+2_14_14	Event	2_6_6	after
+3_1_1	Event	2_14_14	after
+3_7_7	Event	3_1_1	after
+3_19_19	Event	3_7_7	after
+3_25_25	Event	3_19_19	after
+4_3_3	Event	3_25_25	after
+4_5_5	Event	4_3_3	overlap
+5_12_12	Event	4_5_5	after
+5_15_15	Event	5_12_12	after
+5_19_19	Event	5_12_12	after
+7_10_10	Event	-1_-1_-1	Depend-on
+7_14_14	Event	7_10_10	before
+7_19_19	Event	7_14_14	before
+10_13_13	Event	7_19_19	before
+11_6_6	Event	10_13_13	after
+11_10_10	Event	11_6_6	before
+11_14_14	Event	11_10_10	after
+12_3_3	Event	11_14_14	after
+13_5_5	Event	-1_-1_-1	Depend-on
+14_6_6	Event	13_5_5	after
+
+
+filename:<doc id="2786624" url="https://en.wikinews.org/wiki?curid=2786624" title="Suicide bomber attacks Istanbul, kills four"><paragraph:1_3_6_7_8_9_10_11>:SNT_LIST
+March 21 , 2016
+At least four people were killed by a suicide bomb in the Turkish city of Istanbul on Saturday morning .
+The suicide bomber was a fifth death .
+At least 36 people were injured , according to Turkish health minister Mehmet Müezzinoğlu .
+Reports varied on how may injured were foreigners ; Minister Müezzinoğlu identified the nationalities of twelve injured from Israel , Germany , Ireland , Iceland , Iran , and Dubai .
+The blast occurred prematurely , according to CNN Türk .
+The attack took place on Istiklal Street , a popular pedestrian commercial street .
+Prime Minister Ahmet Davutoglu called the blast `` inhumane , '' saying Turkey would continue to fight `` centres of terrorism '' .
+This is the third attack in Turkey in just over a month , following a car bomb that killed more than 30 people in Ankara , the capital of Turkey , six days earlier , and the bombing of a military convoy in mid-February .
+President Recep Tayyip Erdogan of Turkey condemned the Ankara attack , saying , `` Terror organisations and their pawns are targeting our innocent citizens in the most immoral and heartless way as they lose the fight against our security forces -LSB- ... -RSB- Terror attacks -- which intend to target the integrity of Turkey , unity and solidarity of our people -- do not diminish our will to fight against terror , but further boost it . ''
+The Ankara attack has since been claimed by a Kurdish military group , the Kurdish Freedom Falcons : `` We claim the operation of March 13 , 2016 , at 6:45 p.m. in the heart of the Republic of Turkey '' .
+The Kurdish Freedom Falcons are associated with the Kurdistan Workers Party -LRB- PKK -RRB- .
+According to Reuters , violence has escalated in southeast of Turkey since the July collapse of the Turkey -- PKK ceasefire .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_17_18	Timex	0_0_3	Depend-on
+8_9_11	Timex	0_0_3	Depend-on
+8_31_33	Timex	0_0_3	Depend-on
+8_43_43	Timex	0_0_3	Depend-on
+10_24_27	Timex	-1_-1_-1	Depend-on
+10_30_31	Timex	12_13_13	included
+12_13_13	Timex	0_0_3	Depend-on
+1_5_5	Event	1_17_18	included
+2_6_6	Event	1_17_18	included
+3_5_5	Event	1_17_18	included
+4_1_1	Event	0_0_3	before
+4_5_5	Event	1_17_18	included
+4_16_16	Event	1_17_18	included
+5_1_1	Event	1_17_18	included
+5_2_2	Event	1_17_18	included
+6_1_1	Event	1_17_18	included
+6_2_2	Event	1_17_18	included
+7_4_4	Event	0_0_3	before
+7_6_6	Event	1_17_18	included
+7_11_11	Event	0_0_3	before
+8_4_4	Event	1_17_18	included
+8_18_18	Event	8_31_33	included
+8_37_37	Event	8_43_43	included
+8_41_41	Event	8_43_43	included
+9_6_6	Event	0_0_3	before
+9_9_9	Event	1_17_18	included
+9_11_11	Event	0_0_3	before
+9_33_33	Event	0_0_3	before
+9_35_35	Event	0_0_3	before
+10_2_2	Event	1_17_18	included
+10_6_6	Event	0_0_3	before
+10_20_20	Event	0_0_3	before
+10_22_22	Event	10_24_27	included
+12_6_6	Event	0_0_3	before
+12_14_14	Event	12_13_13	included
+1_5_5	Event	-1_-1_-1	Depend-on
+2_6_6	Event	1_5_5	overlap
+3_5_5	Event	-1_-1_-1	Depend-on
+4_1_1	Event	3_5_5	after
+4_5_5	Event	4_1_1	before
+4_16_16	Event	4_5_5	overlap
+5_1_1	Event	-1_-1_-1	Depend-on
+5_2_2	Event	5_1_1	overlap
+6_1_1	Event	-1_-1_-1	Depend-on
+6_2_2	Event	6_1_1	overlap
+7_4_4	Event	-1_-1_-1	Depend-on
+7_6_6	Event	7_4_4	before
+7_11_11	Event	7_4_4	overlap
+8_4_4	Event	-1_-1_-1	Depend-on
+8_18_18	Event	8_4_4	before
+8_37_37	Event	8_18_18	before
+8_41_41	Event	8_37_37	overlap
+9_6_6	Event	-1_-1_-1	Depend-on
+9_9_9	Event	9_6_6	before
+9_11_11	Event	9_6_6	overlap
+9_33_33	Event	9_11_11	before
+9_35_35	Event	9_33_33	overlap
+10_2_2	Event	-1_-1_-1	Depend-on
+10_6_6	Event	10_2_2	after
+10_20_20	Event	10_6_6	overlap
+10_22_22	Event	10_20_20	before
+12_6_6	Event	-1_-1_-1	Depend-on
+12_14_14	Event	12_6_6	before
+
+
+filename:<doc id="395713" url="https://en.wikinews.org/wiki?curid=395713" title="Roman coins hoard found in Somerset, England"><paragraph:1_2_4_7_9>:SNT_LIST
+March 23 , 2012
+It has now emerged that in the past four to five years , approximately thirty thousand silver Roman coins were discovered in the city of Bath , in Somerset , England .
+Archaeologists discovered the coins , which are thought to date back to the year 270 , on the site of a new hotel on Beau Street in the city as work was underway 150 metres away from the Roman Baths .
+The hoard , named as the Beau Street Hoard , is understood to be the fifth largest ever uncovered in the United Kingdom and the greatest one found at a Roman town in the country .
+Speaking on behalf of Roman Baths , Stephen Clews stated : `` We 've put in a request for a formal valuation and then hope to buy the coins to display them at the baths .
+At the time there was a lot of unrest in the Roman Empire so there may be some explanation for why the coins were hidden away . ''
+This discovery was `` unusual as it was discovered by professional archaeologists as opposed to an amateur using a metal detector , '' according to Clews .
+The discovered coins were found to be in a large block joined together , increasing the difficulty of establishing what exact kind of coins these are , as well as the total number of them .
+The hoard has been sent to the British Museum in the capital London where conservators are anticipated to take twelve months or more to analyse the coins .
+The Roman Baths is now attempting to accumulate £ 150,000 -LRB- € 180,000 or US$ 237,000 -RRB- in funding so as to allow them to acquire the coins and place them on display .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_2_2	Timex	0_0_3	Depend-on
+1_8_8	Timex	0_0_3	Depend-on
+1_10_11	Timex	0_0_3	Depend-on
+8_19_20	Timex	0_0_3	Depend-on
+9_4_4	Timex	0_0_3	Depend-on
+1_3_3	Event	1_2_2	included
+1_20_20	Event	0_0_3	before
+2_1_1	Event	0_0_3	before
+2_30_30	Event	0_0_3	before
+3_18_18	Event	0_0_3	before
+3_27_27	Event	0_0_3	before
+4_0_0	Event	0_0_3	before
+4_9_9	Event	0_0_3	before
+6_1_1	Event	0_0_3	before
+6_8_8	Event	0_0_3	before
+7_1_1	Event	0_0_3	before
+7_4_4	Event	0_0_3	before
+7_14_14	Event	0_0_3	before
+8_4_4	Event	0_0_3	before
+1_3_3	Event	-1_-1_-1	Depend-on
+1_20_20	Event	1_3_3	before
+2_1_1	Event	-1_-1_-1	Depend-on
+2_30_30	Event	2_1_1	overlap
+3_18_18	Event	-1_-1_-1	Depend-on
+3_27_27	Event	3_18_18	overlap
+4_0_0	Event	-1_-1_-1	Depend-on
+4_9_9	Event	4_0_0	overlap
+6_1_1	Event	4_9_9	before
+6_8_8	Event	6_1_1	overlap
+7_1_1	Event	-1_-1_-1	Depend-on
+7_4_4	Event	7_1_1	overlap
+7_14_14	Event	7_4_4	overlap
+8_4_4	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="4141" url="https://en.wikinews.org/wiki?curid=4141" title="G7 announce debt relief plan"><paragraph:1_5_7_10>:SNT_LIST
+February 5 , 2005
+London , UK -- The quarterly G7 Finance Ministers and Central Bank Governors ' meeting at Lancaster House concluded on February 5 , 2005 , with the G7 failing to agree on a plan to reduce debt in developing countries .
+According to the Los Angeles Times , British Chancellor of the Exchequer Gordon Brown announced that he believes , `` this summit will be remembered as the summit for 100 % debt relief '' for the 27 countries involved in the Enhanced HIPC Initiative .
+Ministers from other G7 countries disagreed .
+Brown 's so-called International Financial Facility proposal , or IFF , `` would not work for the U.S , '' Undersecretary of the U.S. Treasury John Taylor said to the Los Angeles Times .
+The joint statement issued by the ministers in the wake of the conference stated that , `` We are agreed on a case-by-case analysis of HIPC countries , based on our willingness to provide as much as 100 per cent multilateral debt relief . ''
+The ministers did not cite a figure for the minimum amount of debt relief that would be provided .
+The conference was preceded by a demonstration in Trafalgar Square on the theme of `` Make Poverty History . ''
+Nelson Mandela spoke at the demonstration , attended by an estimated 20,000 people , according to World Development Movement , an organization involved in the planning of the event .
+Chancellor Brown invited Mandela to address the G7 on February 4 , 2005 , which he did in a `` fireside chat , '' according to Larry Elliott of The Guardian .
+The G7 , or ` Group of Seven , ' is a coalition of seven major industrial democracies : the United Kingdom , France , Germany , Italy , Japan , the United States , and Canada .
+They hold quarterly meetings to discuss financial matters .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_20_23	Timex	-1_-1_-1	Depend-on
+9_9_12	Timex	-1_-1_-1	Depend-on
+1_14_14	Event	0_0_3	before
+1_18_18	Event	1_20_23	included
+1_28_28	Event	1_20_23	included
+2_14_14	Event	0_0_3	before
+2_38_38	Event	0_0_3	before
+4_6_6	Event	0_0_3	before
+4_27_27	Event	0_0_3	before
+5_2_2	Event	0_0_3	before
+5_3_3	Event	0_0_3	before
+5_13_13	Event	0_0_3	before
+7_1_1	Event	0_0_3	before
+7_3_3	Event	0_0_3	before
+7_6_6	Event	0_0_3	before
+8_2_2	Event	0_0_3	before
+8_5_5	Event	0_0_3	before
+8_7_7	Event	0_0_3	before
+8_22_22	Event	0_0_3	before
+8_28_28	Event	0_0_3	before
+9_2_2	Event	9_9_12	included
+1_14_14	Event	-1_-1_-1	Depend-on
+1_18_18	Event	1_14_14	overlap
+1_28_28	Event	1_18_18	overlap
+2_14_14	Event	-1_-1_-1	Depend-on
+2_38_38	Event	2_14_14	before
+4_6_6	Event	-1_-1_-1	Depend-on
+4_27_27	Event	4_6_6	after
+5_2_2	Event	-1_-1_-1	Depend-on
+5_3_3	Event	5_2_2	overlap
+5_13_13	Event	5_3_3	overlap
+7_1_1	Event	1_14_14	overlap
+7_3_3	Event	7_1_1	overlap
+7_6_6	Event	7_3_3	overlap
+8_2_2	Event	7_6_6	overlap
+8_5_5	Event	8_2_2	overlap
+8_7_7	Event	8_5_5	overlap
+8_22_22	Event	8_5_5	before
+8_28_28	Event	8_22_22	after
+9_2_2	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="47637" url="https://en.wikinews.org/wiki?curid=47637" title="Muhammad cartoon row continues"><paragraph:1_2_4_7>:SNT_LIST
+August 18 , 2006
+Nearing the one year anniversary of the publication of twelve controversial editorial cartoons depicting Muhammad in a Danish newspaper , a leading authority of Sunni Islam has demanded that the newspaper be shut down .
+In an interview with the Danish newspaper Berlingske Tidende , Sheikh Mohammed Sayyed Tantawi , Grand Iman of the Al-Azhar University in Cairo and formerly Grand Mufti of the Republic , demanded the closure of Jyllands Posten , the paper responsible for publishing the cartoons .
+He went on to call for chief editor Carsten Juste to be jailed for three years , and for the editor of the paper 's cartoon section , Flemming Rose , be depicted as a pig .
+`` It is thought provoking , '' Rose said , `` that he -LRB- Tantawi -RRB- believes it would be a punishment for me to be depicted as a pig .
+It confirms that the imam has a shocking lack of knowledge about our civilisation , and it confirms the need for dialogue . ''
+Rose added that it shows how blasphemy law in the Arab world is used to suppress those with views different from those in power .
+Tantawi called the drawings `` one of the most serious crimes ever committed . ''
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_1_3	Timex	0_0_3	Depend-on
+3_14_15	Timex	0_0_3	Depend-on
+1_7_7	Event	0_0_3	before
+1_13_13	Event	0_0_3	before
+2_2_2	Event	0_0_3	before
+3_1_1	Event	0_0_3	before
+3_4_4	Event	0_0_3	before
+3_32_32	Event	0_0_3	before
+4_8_8	Event	0_0_3	before
+5_1_1	Event	0_0_3	overlap
+5_17_17	Event	0_0_3	overlap
+6_1_1	Event	0_0_3	before
+6_4_4	Event	0_0_3	overlap
+7_1_1	Event	0_0_3	before
+7_10_10	Event	0_0_3	before
+7_12_12	Event	0_0_3	before
+1_7_7	Event	-1_-1_-1	Depend-on
+1_13_13	Event	1_7_7	overlap
+2_2_2	Event	-1_-1_-1	Depend-on
+3_1_1	Event	2_2_2	overlap
+3_4_4	Event	3_1_1	overlap
+3_32_32	Event	3_4_4	before
+4_8_8	Event	-1_-1_-1	Depend-on
+5_1_1	Event	4_8_8	overlap
+5_17_17	Event	4_8_8	overlap
+6_1_1	Event	4_8_8	after
+6_4_4	Event	6_1_1	overlap
+7_1_1	Event	-1_-1_-1	Depend-on
+7_10_10	Event	7_1_1	before
+7_12_12	Event	7_10_10	overlap
+
+
+filename:<doc id="49328" url="https://en.wikinews.org/wiki?curid=49328" title="Egypt - Rail accident claims five lives"><paragraph:1_4_6>:SNT_LIST
+September 4 , 2006
+The collision of a freight train with a passenger train just north of Cairo in the town of Shebin al-Qanater .
+The accident claimed 5 lives and injured another 30 .
+It is reported that one of the dead was the engineer of the freight train .
+In August the director of rail service in Egypt was fired after a similar accident killed 58 people in the town of Qalyoub .
+A public inquiry into that accident is underway amid growing criticism of the government for lax rail safety and transport regulation .
+Mohammed Mansour , Egypt 's new director of transport has agreed that the transportation system is in need of extensive overhauls .
+The government has approved $ 860 million to develop the rail infrastructure , plus another $ 600 million in loans to private rail operators .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+4_1_1	Timex	0_0_3	Depend-on
+1_1_1	Event	0_0_3	before
+2_1_1	Event	0_0_3	before
+2_2_2	Event	0_0_3	before
+3_2_2	Event	0_0_3	overlap
+4_10_10	Event	4_1_1	included
+4_14_14	Event	0_0_3	before
+4_15_15	Event	4_1_1	included
+5_2_2	Event	0_0_3	overlap
+5_5_5	Event	4_1_1	included
+7_3_3	Event	0_0_3	before
+1_1_1	Event	-1_-1_-1	Depend-on
+2_1_1	Event	1_1_1	overlap
+2_2_2	Event	2_1_1	overlap
+3_2_2	Event	2_1_1	after
+4_10_10	Event	-1_-1_-1	Depend-on
+4_14_14	Event	4_10_10	before
+4_15_15	Event	4_14_14	overlap
+5_2_2	Event	4_14_14	after
+5_5_5	Event	5_2_2	before
+7_3_3	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="63437" url="https://en.wikinews.org/wiki?curid=63437" title="NCAA Basketball: Florida, Georgetown join UCLA, OSU in Final Four"><paragraph:1_6_8_13>:SNT_LIST
+March 25 , 2007
+Joakim Noah and the Florida Gators are heading back to the Final Four , looking for a second straight national championship .
+Lee Humphrey led the Gators in scoring with 23 points , hitting 7-13 from behind the arch .
+Noah led the Gators with 14 rebounds , while scoring 14 points .
+Aaron Brooks led the Ducks with 27 points , but it was n't enough to lift Oregon over the first seeded Gators .
+The Ducks end their season with a record of 29-8 .
+Florida is scheduled to play the UCLA Bruins for a spot in the National Championship game .
+The opening tip-off is scheduled for 8:47 PM , Saturday at the Georgia Dome in Atlanta , Georgia .
+Tyler Hansbrough scored 26 points for North Carolina , but it was n't enough for North Carolina , as the Georgetown Hoyas prevailed for a thrilling overtime victory , and a trip to the Final Four in Atlanta .
+Jeff Green led the Hoyas in scoring with 22 points , but the victory was a team effort , with four players scoring 15 or more points .
+Roy Hibbert led the victorious Hoyas in rebounds with 11 .
+The first seeded Tar Heels are one of only two # 1 seeds to be eliminated from the tournament , joining the Kansas Jayhawks , who fell Saturday night to UCLA .
+North Carolina ends it 's season with a record of 31-7 .
+Georgetown is scheduled to play the Ohio State Buckeyes in the national semi-final round of the NCAA Tournament .
+Opening tip-off is scheduled for 6:07 PM , Saturday evening at the Georgia Dome in Atlanta , Georgia .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+7_6_7	Timex	7_9_9	included
+7_9_9	Timex	0_0_3	Depend-on
+11_27_28	Timex	0_0_3	Depend-on
+14_5_6	Timex	14_8_9	included
+14_8_9	Timex	0_0_3	Depend-on
+1_7_7	Event	0_0_3	overlap
+1_14_14	Event	0_0_3	overlap
+2_2_2	Event	0_0_3	before
+2_6_6	Event	0_0_3	before
+2_11_11	Event	0_0_3	before
+3_1_1	Event	0_0_3	before
+3_9_9	Event	0_0_3	before
+4_2_2	Event	0_0_3	before
+5_2_2	Event	0_0_3	before
+6_2_2	Event	0_0_3	overlap
+6_4_4	Event	0_0_3	after
+7_2_2	Event	7_6_7	included
+7_4_4	Event	0_0_3	overlap
+8_2_2	Event	0_0_3	before
+8_22_22	Event	0_0_3	before
+8_27_27	Event	0_0_3	before
+8_31_31	Event	0_0_3	before
+9_2_2	Event	0_0_3	before
+9_6_6	Event	0_0_3	before
+9_13_13	Event	0_0_3	before
+9_17_17	Event	0_0_3	before
+9_22_22	Event	0_0_3	before
+10_2_2	Event	0_0_3	before
+11_15_15	Event	0_0_3	before
+11_18_18	Event	0_0_3	before
+11_26_26	Event	11_27_28	included
+12_2_2	Event	0_0_3	overlap
+13_2_2	Event	0_0_3	overlap
+13_4_4	Event	0_0_3	after
+14_1_1	Event	14_5_6	included
+14_3_3	Event	0_0_3	overlap
+1_7_7	Event	-1_-1_-1	Depend-on
+1_14_14	Event	1_7_7	overlap
+2_2_2	Event	1_14_14	before
+2_6_6	Event	2_2_2	overlap
+2_11_11	Event	2_6_6	overlap
+3_1_1	Event	-1_-1_-1	Depend-on
+3_9_9	Event	3_1_1	overlap
+4_2_2	Event	-1_-1_-1	Depend-on
+5_2_2	Event	-1_-1_-1	Depend-on
+6_2_2	Event	-1_-1_-1	Depend-on
+6_4_4	Event	6_2_2	after
+7_2_2	Event	6_4_4	overlap
+7_4_4	Event	7_2_2	before
+8_2_2	Event	-1_-1_-1	Depend-on
+8_22_22	Event	8_2_2	overlap
+8_27_27	Event	8_22_22	overlap
+8_31_31	Event	8_27_27	after
+9_2_2	Event	-1_-1_-1	Depend-on
+9_6_6	Event	9_2_2	overlap
+9_13_13	Event	9_6_6	overlap
+9_17_17	Event	9_13_13	before
+9_22_22	Event	9_17_17	overlap
+10_2_2	Event	-1_-1_-1	Depend-on
+11_15_15	Event	-1_-1_-1	Depend-on
+11_18_18	Event	11_15_15	overlap
+11_26_26	Event	11_18_18	overlap
+12_2_2	Event	-1_-1_-1	Depend-on
+13_2_2	Event	-1_-1_-1	Depend-on
+13_4_4	Event	13_2_2	after
+14_1_1	Event	13_4_4	overlap
+14_3_3	Event	14_1_1	before
+
+
+filename:<doc id="641916" url="https://en.wikinews.org/wiki?curid=641916" title="All branches of UK photography retailer Jessops close today"><paragraph:1_4_6>:SNT_LIST
+January 11 , 2013
+All 187 store locations of Jessops camera retailer are closing in the United Kingdom today .
+The business , which went into administration earlier this week , is to leave its workforce of approximately 1370 jobless .
+While staff at the business ' top office in Leicester , in central England , are not being made redundant with immediate effect , they are in the next few weeks to lose their positions .
+PwC say no Jessops branches will open tomorrow and people who have bought items from their businesses will not be able to return them .
+However , stock `` will be returned to suppliers if they are entitled to it '' , according to Hunt .
+Hunt said PwC `` will continue to ensure that employees are paid as they assist us during the closure '' at Jessops .
+In a comment to the BBC , Hunt described the situation at Jessops as `` a horrible end to a very intensive couple of days '' .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_14_14	Timex	0_0_3	Depend-on
+2_7_9	Timex	0_0_3	Depend-on
+3_27_30	Timex	0_0_3	Depend-on
+4_7_7	Timex	0_0_3	Depend-on
+1_9_9	Event	1_14_14	included
+2_4_4	Event	2_7_9	included
+3_32_32	Event	0_0_3	after
+4_1_1	Event	0_0_3	overlap
+4_12_12	Event	0_0_3	before
+6_1_1	Event	0_0_3	before
+6_14_14	Event	0_0_3	before
+7_2_2	Event	0_0_3	before
+7_8_8	Event	0_0_3	before
+7_17_17	Event	0_0_3	before
+1_9_9	Event	-1_-1_-1	Depend-on
+2_4_4	Event	1_9_9	before
+3_32_32	Event	2_4_4	overlap
+4_1_1	Event	-1_-1_-1	Depend-on
+4_12_12	Event	4_1_1	before
+6_1_1	Event	-1_-1_-1	Depend-on
+6_14_14	Event	6_1_1	overlap
+7_2_2	Event	-1_-1_-1	Depend-on
+7_8_8	Event	7_2_2	overlap
+7_17_17	Event	7_8_8	before
+
+
+filename:<doc id="659062" url="https://en.wikinews.org/wiki?curid=659062" title="United States economy shrinks by 0.1% in last quarter of 2012"><paragraph:1_3_5>:SNT_LIST
+February 1 , 2013
+The United States economy shrank by 0.1 % in the last three months of 2012 according to official statistics released on Wednesday by the United States Department of Commerce .
+The contraction in the economy comes after growth of 3.1 % in the previous quarter -LRB- July to September -RRB- and is the first contraction since the 2009 recession .
+Economic growth is thought to have fallen due to cuts in government spending , including a 22 % cut in the defence budget being the largest decline in defence spending since 1972 .
+Economic analysts had expected a 1.1 % in growth according to polling conducted by the news agency Reuters and that none of them had predicted a contraction in the economy .
+Export levels were at their lowest for almost four years , this may be due to the recession in Europe and a decline in growth in China .
+However , there were increases in consumer spending and investments which shows that there may be other problems with the economy and that the `` fiscal cliff '' issues of December did not worry markets too much .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_9_12	Timex	1_14_14	included
+1_14_14	Timex	-1_-1_-1	Depend-on
+1_21_21	Timex	0_0_3	Depend-on
+2_12_14	Timex	1_14_14	Depend-on
+2_16_16	Timex	2_12_14	included
+2_18_18	Timex	2_12_14	included
+3_31_31	Timex	-1_-1_-1	Depend-on
+5_7_9	Timex	0_0_3	Depend-on
+6_30_30	Timex	0_0_3	Depend-on
+1_4_4	Event	1_9_12	included
+1_19_19	Event	1_21_21	included
+2_1_1	Event	2_12_14	after
+2_5_5	Event	2_12_14	after
+2_7_7	Event	2_12_14	included
+2_24_24	Event	2_12_14	after
+3_1_1	Event	0_0_3	before
+3_6_6	Event	0_0_3	before
+3_9_9	Event	0_0_3	before
+3_18_18	Event	3_31_31	after
+3_26_26	Event	3_31_31	after
+4_12_12	Event	0_0_3	before
+5_22_22	Event	0_0_3	before
+6_4_4	Event	0_0_3	before
+6_9_9	Event	0_0_3	before
+6_11_11	Event	0_0_3	overlap
+1_4_4	Event	-1_-1_-1	Depend-on
+1_19_19	Event	1_4_4	after
+2_1_1	Event	1_4_4	overlap
+2_5_5	Event	2_1_1	overlap
+2_7_7	Event	2_1_1	before
+2_24_24	Event	2_1_1	overlap
+3_1_1	Event	-1_-1_-1	Depend-on
+3_6_6	Event	3_1_1	overlap
+3_9_9	Event	3_6_6	before
+3_18_18	Event	3_9_9	overlap
+3_26_26	Event	3_18_18	overlap
+4_12_12	Event	3_6_6	before
+5_22_22	Event	-1_-1_-1	Depend-on
+6_4_4	Event	-1_-1_-1	Depend-on
+6_9_9	Event	6_4_4	overlap
+6_11_11	Event	6_4_4	overlap
+
+
+filename:<doc id="6596" url="https://en.wikinews.org/wiki?curid=6596" title="EU nabs US$300 million illegal trafficking in Spain"><paragraph:1_3_5>:SNT_LIST
+March 31 , 2005
+Officials arrested 41 people from five countries Sunday in connection with a trans-European money laundering operation .
+The individuals are suspected in laundering US$ 300 million in gang-related activities such as prostitution , murder , and arms and drug trafficking , according to police with Interpol and Europol .
+The BBC reported citizens of Spain , France , Finland , Russia , and Ukraine were among those arrested and charged with illegally siphoning money from Yukos , a large Russian oil company .
+Yukos maintains it was unaware of such activities .
+The crackdown went by code name Operation White Whale and was a joint effort between Spain and Russia , officials said .
+The arrests were centered in the Costa del Sol area of Spain 's southern Mediterranean coast .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_7_7	Timex	0_0_3	Depend-on
+1_1_1	Event	1_7_7	included
+1_15_15	Event	1_7_7	included
+3_2_2	Event	0_0_3	before
+3_18_18	Event	1_7_7	included
+3_20_20	Event	1_7_7	included
+4_1_1	Event	0_0_3	overlap
+5_1_1	Event	1_7_7	included
+5_2_2	Event	1_7_7	included
+5_13_13	Event	1_7_7	included
+5_20_20	Event	0_0_3	before
+6_1_1	Event	1_7_7	included
+6_3_3	Event	1_7_7	included
+1_1_1	Event	-1_-1_-1	Depend-on
+1_15_15	Event	1_1_1	overlap
+3_2_2	Event	1_1_1	after
+3_18_18	Event	3_2_2	before
+3_20_20	Event	3_18_18	after
+4_1_1	Event	3_20_20	after
+5_1_1	Event	-1_-1_-1	Depend-on
+5_2_2	Event	5_1_1	overlap
+5_13_13	Event	5_2_2	overlap
+5_20_20	Event	5_13_13	after
+6_1_1	Event	5_2_2	overlap
+6_3_3	Event	6_1_1	overlap
+
+
+filename:<doc id="76417" url="https://en.wikinews.org/wiki?curid=76417" title="Opera singer Luciano Pavarotti hospitalized"><paragraph:1_4_6_8_10>:SNT_LIST
+August 10 , 2007
+Luciano Pavarotti , 71 , a world-famous opera singer has been admitted to the hospital due to a high fever .
+The cause of the fever is currently unknown , however some reports say that he is being treated for pneumonia .
+His condition is being reported as stable .
+`` He -LSB- Pavarotti -RSB- is currently under observation and his condition is satisfactory , '' said a spokesman at the Modena University Polyclinic in Modena , Italy .
+He is reportedly being treated in the hospital 's cancer ward and hallways have been blocked off and are being protected by private guards .
+Pavarotti was admitted on Wednesday for observation , and the hospital states that he could be released `` in the next few days . ''
+He was on vacation in Pesaro , staying at one of his homes when he fell ill .
+Pavarotti had been diagnosed with pancreatic cancer , and in 2006 underwent surgery to remove a cancerous mass .
+According to Nicoletta Mantovani , Pavarotti 's wife , he has also been receiving radiation treatments .
+`` I can now say he is doing well .
+He 's reacting well to a fifth cycle of radiotherapy .
+He 's fighting like a lion and he has never lost his heart , also because a family he adores is by his side , '' said Mantovani .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+2_6_6	Timex	0_0_3	Depend-on
+4_6_6	Timex	0_0_3	Depend-on
+6_4_4	Timex	0_0_3	Depend-on
+6_19_22	Timex	0_0_3	Depend-on
+8_10_10	Timex	-1_-1_-1	Depend-on
+10_3_3	Timex	0_0_3	Depend-on
+1_11_11	Event	0_0_3	before
+2_11_11	Event	0_0_3	overlap
+2_12_12	Event	0_0_3	overlap
+2_17_17	Event	0_0_3	overlap
+3_4_4	Event	0_0_3	overlap
+4_8_8	Event	4_6_6	included
+4_16_16	Event	0_0_3	before
+5_4_4	Event	0_0_3	overlap
+5_15_15	Event	0_0_3	before
+5_20_20	Event	0_0_3	overlap
+6_2_2	Event	6_4_4	included
+6_6_6	Event	6_4_4	included
+6_11_11	Event	0_0_3	overlap
+7_3_3	Event	0_0_3	before
+7_7_7	Event	0_0_3	before
+8_3_3	Event	0_0_3	before
+8_11_11	Event	8_10_10	included
+8_14_14	Event	8_10_10	included
+9_13_13	Event	0_0_3	overlap
+9_15_15	Event	0_0_3	overlap
+11_2_2	Event	10_3_3	included
+11_9_9	Event	10_3_3	included
+12_2_2	Event	10_3_3	included
+12_26_26	Event	0_0_3	before
+1_11_11	Event	-1_-1_-1	Depend-on
+2_11_11	Event	1_11_11	after
+2_12_12	Event	2_11_11	overlap
+2_17_17	Event	2_12_12	overlap
+3_4_4	Event	-1_-1_-1	Depend-on
+4_8_8	Event	-1_-1_-1	Depend-on
+4_16_16	Event	4_8_8	overlap
+5_4_4	Event	-1_-1_-1	Depend-on
+5_15_15	Event	5_4_4	overlap
+5_20_20	Event	5_15_15	after
+6_2_2	Event	-1_-1_-1	Depend-on
+6_6_6	Event	6_2_2	after
+6_11_11	Event	-1_-1_-1	Depend-on
+7_3_3	Event	6_2_2	before
+7_7_7	Event	7_3_3	overlap
+8_3_3	Event	-1_-1_-1	Depend-on
+8_11_11	Event	-1_-1_-1	Depend-on
+8_14_14	Event	8_11_11	overlap
+9_13_13	Event	-1_-1_-1	Depend-on
+9_15_15	Event	9_13_13	overlap
+11_2_2	Event	-1_-1_-1	Depend-on
+11_9_9	Event	11_2_2	overlap
+12_2_2	Event	11_2_2	overlap
+12_26_26	Event	12_2_2	overlap
+
+
+filename:<doc id="76436" url="https://en.wikinews.org/wiki?curid=76436" title="Third death following RAF helicopter crash in North Yorkshire, UK"><paragraph:1_3_7>:SNT_LIST
+August 10 , 2007
+A third man has died today from injuries sustained in the crash of an Royal Air Force Aérospatiale Puma helicopter in the county of North Yorkshire , in the United Kingdom , earlier this week .
+Twelve people were on board the aircraft when it crashed near Catterick Garrison army base on Wednesday evening during what is said to have been a routine training exercise .
+The man has not been named but is understood to be a soldier from the Infantry Training Battalion at Catterick .
+Brigadier David Clements of the Commandant Infantry Training Centre said `` We are all deeply saddened by the news that one of the recruits involved in Wednesday 's helicopter accident has died as a result of the injuries he sustained .
+His family were with him when he passed away .
+Our thoughts and prayers are with them at this most difficult time . ''
+Flight Lieutenant David Sale , aged 28 , and Sergeant Phillip Burfoot , aged 27 , died at the scene of the crash .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_5_5	Timex	0_0_3	Depend-on
+1_32_34	Timex	0_0_3	Depend-on
+2_16_17	Timex	0_0_3	Depend-on
+4_26_26	Timex	0_0_3	Depend-on
+1_4_4	Event	1_5_5	included
+1_7_7	Event	0_0_3	before
+1_8_8	Event	1_32_34	included
+1_11_11	Event	1_32_34	included
+2_9_9	Event	2_16_17	included
+2_21_21	Event	0_0_3	overlap
+2_28_28	Event	2_16_17	included
+4_9_9	Event	0_0_3	before
+4_24_24	Event	4_26_26	included
+4_29_29	Event	4_26_26	included
+4_31_31	Event	1_5_5	included
+4_37_37	Event	4_26_26	included
+4_39_39	Event	4_26_26	included
+5_7_7	Event	1_5_5	included
+7_16_16	Event	2_16_17	included
+7_22_22	Event	2_16_17	included
+1_4_4	Event	-1_-1_-1	Depend-on
+1_7_7	Event	1_4_4	before
+1_8_8	Event	1_7_7	overlap
+1_11_11	Event	1_8_8	overlap
+2_9_9	Event	1_11_11	overlap
+2_21_21	Event	-1_-1_-1	Depend-on
+2_28_28	Event	2_9_9	overlap
+4_9_9	Event	-1_-1_-1	Depend-on
+4_24_24	Event	4_9_9	before
+4_29_29	Event	4_24_24	overlap
+4_31_31	Event	4_29_29	after
+4_37_37	Event	4_29_29	overlap
+4_39_39	Event	4_37_37	overlap
+5_7_7	Event	4_31_31	overlap
+7_16_16	Event	-1_-1_-1	Depend-on
+7_22_22	Event	7_16_16	overlap
+
+
+filename:<doc id="76468" url="https://en.wikinews.org/wiki?curid=76468" title="Mother, child found dead in Minneapolis collapse site"><paragraph:1_4_6_7>:SNT_LIST
+August 11 , 2007
+Hana Sahal , a 22-year-old nursing student from Somalia , and her nearly two-year-old daughter were found dead after the collapse of the I-35W bridge in Minneapolis .
+Sahal was five months pregnant .
+With other remains discovered Friday , the death toll from the collapase is now at least nine .
+Sahal died due to head injuries caused by the bridge 's collapse .
+Omar Jamal , the director of the Somali Justice Advocacy Center said that authorities informed Sahal 's family of the death on Friday .
+Minneapolis received US$ 5 million in emergency aid the morning after the disaster , and a further $ 5 million was secured by Minnesota 's congressional delegation to set up alternative transportation options for motorists .
+According to authorities , all remains that have been found have been identified , although there still may be people trapped in the bridge .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+2_2_3	Timex	0_0_3	Depend-on
+3_4_4	Timex	0_0_3	Depend-on
+3_13_13	Timex	0_0_3	Depend-on
+5_22_22	Timex	0_0_3	Depend-on
+1_16_16	Event	0_0_3	before
+1_20_20	Event	0_0_3	before
+3_3_3	Event	3_4_4	included
+4_1_1	Event	0_0_3	before
+4_5_5	Event	0_0_3	before
+4_6_6	Event	0_0_3	before
+4_11_11	Event	0_0_3	before
+5_11_11	Event	0_0_3	before
+5_14_14	Event	5_22_22	included
+5_20_20	Event	0_0_3	before
+6_1_1	Event	0_0_3	before
+6_21_21	Event	0_0_3	before
+7_9_9	Event	0_0_3	before
+7_12_12	Event	0_0_3	before
+1_16_16	Event	-1_-1_-1	Depend-on
+1_20_20	Event	1_16_16	before
+3_3_3	Event	1_20_20	after
+4_1_1	Event	-1_-1_-1	Depend-on
+4_5_5	Event	4_1_1	before
+4_6_6	Event	4_5_5	overlap
+4_11_11	Event	4_6_6	overlap
+5_11_11	Event	4_1_1	after
+5_14_14	Event	5_11_11	before
+5_20_20	Event	5_14_14	before
+6_1_1	Event	-1_-1_-1	Depend-on
+6_21_21	Event	-1_-1_-1	Depend-on
+7_9_9	Event	-1_-1_-1	Depend-on
+7_12_12	Event	7_9_9	after
+
+
+filename:<doc id="7710" url="https://en.wikinews.org/wiki?curid=7710" title="Drug-resistant infections on the rise in American hospitals"><paragraph:1_2_5_9>:SNT_LIST
+April 9 , 2005
+April 9 , 2005 A rise in flesh-eating staph infections has worried doctors about the possible spread of drug resistant bacteria .
+Staphylococcus aureus , commonly known as staph , is a bacteria that commonly causes skin infections in otherwise healthy people .
+However , as a persistent threat in hospitals , it tends to infect patients who are already sick and whose systems are vulnerable due to IV lines that pierce the skin .
+Doctors have already battled for years against drug-resistant strains of the bacteria , but the struggle has generally been confined to hospitals .
+Now , however , Methicillin Resistant Staph Aureus -LRB- MRSA -RRB- has been spreading in communities outside hospitals .
+Cases have multiplied by 25 times since 1998 at the University of Chicago .
+A Los Angeles hospital documented 14 cases of the flesh-eating infection , where patients required substantial time in intensive care and surgery .
+The infections are particularly problematic because nearly a quarter of people who get a staph infection require hospitalization .
+Staph infections are spread much like other diseases , with crowded conditions , poor hygiene , and skin-to-skin contact most frequently to blame .
+At higher risk are prison inmates , homeless people , military personnel , and families with kids in day care .
+Athletes also have a higher risk , because sweating makes it easier for bacteria to infect the skin .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+5_0_0	Timex	0_0_3	Depend-on
+6_7_7	Timex	-1_-1_-1	Depend-on
+1_5_5	Event	0_0_3	before
+4_3_3	Event	0_0_3	before
+4_15_15	Event	0_0_3	before
+4_19_19	Event	0_0_3	before
+5_13_13	Event	5_0_0	included
+6_2_2	Event	6_7_7	after
+7_4_4	Event	0_0_3	before
+7_14_14	Event	0_0_3	before
+1_5_5	Event	-1_-1_-1	Depend-on
+4_3_3	Event	-1_-1_-1	Depend-on
+4_15_15	Event	4_3_3	overlap
+4_19_19	Event	4_15_15	overlap
+5_13_13	Event	-1_-1_-1	Depend-on
+6_2_2	Event	-1_-1_-1	Depend-on
+7_4_4	Event	-1_-1_-1	Depend-on
+7_14_14	Event	7_4_4	overlap
+
+
+filename:<doc id="77687" url="https://en.wikinews.org/wiki?curid=77687" title="Efforts to salvage Indonesian naval vessel grounded off Queensland, Australia hampered by stormy weather"><paragraph:1_2_4_5_6_7_8_9>:SNT_LIST
+August 25 , 2007
+Efforts to salvage the Indonesian naval vessel `` Arung Samudera '' from where she ran aground on the Sunshine Coast Queensland , have been delayed due to poor weather conditions .
+The 35-metre , tri-masted vessel was originally grounded on August 23 in stormy weather at Inskip Point , near Rainbow Beach .
+A salvage contractor has being brought in to rescue the stricken vessel , her hull is intact and it is believed the ship is in no imminent danger of breaking apart .
+However , the tall ship did drag its anchors and break its rudder and centreboard during the beaching .
+Australian Navy Commander Forbes Peters says that although salvage has been postponed until early next week , the vessel will be surveyed today by the salvage firm .
+`` To develop a plan for how they would salvage the vessel of the beach , that 's going to involve a tugboat pulling the thing off the beach with a longline .
+`` The trouble with actually conducting the salvage will be the sea state ... Until the weather abates there really will not be able to do much in terms of salvage , '' he said .
+The 18-man crew - six officers and 12 sailors - of the New Zealand-built vessel have managed to retrieve their belongings from the ship , and are now expected to be transported to temporary accommodation in local barracks in Bulimba , Brisbane .
+It is still hoped the ship can be repaired in time for it to attend a summit next month in Sydney , but this to be unlikely .
+A decision on whether to take her to Brisbane or Gladstone for repairs is expected to be made on Monday .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+2_9_10	Timex	0_0_3	Depend-on
+5_13_15	Timex	0_0_3	Depend-on
+5_22_22	Timex	0_0_3	Depend-on
+8_27_27	Timex	0_0_3	Depend-on
+9_17_18	Timex	0_0_3	Depend-on
+10_19_19	Timex	0_0_3	Depend-on
+1_14_14	Event	0_0_3	before
+1_24_24	Event	0_0_3	before
+3_5_5	Event	0_0_3	before
+4_6_6	Event	0_0_3	before
+4_10_10	Event	0_0_3	before
+5_5_5	Event	0_0_3	overlap
+5_11_11	Event	5_13_15	before
+5_21_21	Event	5_22_22	included
+7_5_5	Event	0_0_3	after
+7_34_34	Event	0_0_3	before
+8_16_16	Event	0_0_3	before
+8_18_18	Event	0_0_3	before
+10_1_1	Event	10_19_19	included
+1_14_14	Event	-1_-1_-1	Depend-on
+1_24_24	Event	1_14_14	after
+3_5_5	Event	-1_-1_-1	Depend-on
+4_6_6	Event	-1_-1_-1	Depend-on
+4_10_10	Event	4_6_6	overlap
+5_5_5	Event	-1_-1_-1	Depend-on
+5_11_11	Event	5_5_5	before
+5_21_21	Event	5_5_5	after
+7_5_5	Event	-1_-1_-1	Depend-on
+7_34_34	Event	-1_-1_-1	Depend-on
+8_16_16	Event	-1_-1_-1	Depend-on
+8_18_18	Event	8_16_16	overlap
+10_1_1	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="77698" url="https://en.wikinews.org/wiki?curid=77698" title="Loss of integrity in underground city tunnel causes evacuation of Downtown Montreal"><paragraph:1_2_7_11_14_17>:SNT_LIST
+August 26 , 2007
+A one-inch settlement of the roof of The Bay tunnel to the Montreal Metro caused authorities to evacuate 12 blocks of the Montreal downtown core .
+Several people noticed water infiltration in the tunnel over the last few days .
+On Friday , August 24 , at 1 p.m. , while investigating another water infiltration incident , The Bay employees noticed that the ceiling of the tunnel portion of The Bay 's basement sales area had descended one inch over a 7 meter length .
+They subsequently called police .
+The police and firefighters evacuated the basement of the downtown Bay store .
+The police closed de Maisonneuve Boulevard from Aylmer Street to Union Street , over the area of the crack .
+At 4 p.m. , firefighters evacuated the Parkade Montreal Building and The Bay Department Store after finding pieces of concrete falling from the Parkade Montreal structure , a multi-story carpark with five levels of offices on top .
+They also evacuated the downtown portion of the Line 1 / Green Line of the Montreal Metro subway , from Lionel-Groulx to Berri-UQAM stations , and evacuated the McGill metro station , which is situated below The Bay tunnel .
+After consulting with city engineers , Centre 2001 , the loading dock of the Bay and its Hertz car rental agency , Les Promenades Cathedrale underground shopping centre and office tower , and a neighbouring office tower to the Parkade were also evacuated .
+Police cordoned off an area from Bleury Street in the east to University Street in the west , and from Ste-Catherine Street in the south to President Kennedy Street to the north .
+The closure of the Metro caused havoc to the Friday afternoon rush hour , as over 40,000 people regularly use the Green Line -LRB- Line 1 -RRB- every day .
+Montreal Transit Corporation workers issued directions during the day , though some may not have been informed of a provisionary bus service to replace the lost subway service .
+Loudspeakers announced that commuters should use the unaffected Orange Line -LRB- Line 2 -RRB- , which has lines between 5 and 10 blocks south of Line 1 -LRB- Green Line -RRB- , and also connects to Lionel-Groulx and Berri-UQAM stations .
+The downtown area is intended to remain closed for at least the weekend , along with portions of the underground city , or RESO .
+The tunnel was built in 1966 .
+For the last few days , city work crews have been working above the slab in question , digging a one meter trench to install a median and segregate a new bike path on de Maisonneuve Boulevard .
+The tunnel roof lies five meters below street level .
+Residents of Montreal are frustrated with the crumbling infrastructure in and around the city , including the collapse of the de la Concorde Boulevard overpass over Autoroute 19 expressway last year , the shattering of a column holding up the Autoroute 720 Ville Marie elevated expressway last month , and other incidents .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+2_8_12	Timex	0_0_3	Depend-on
+3_1_4	Timex	0_0_3	Depend-on
+3_7_8	Timex	3_1_4	included
+7_1_2	Timex	3_1_4	included
+9_7_7	Timex	-1_-1_-1	Depend-on
+11_9_10	Timex	0_0_3	Depend-on
+11_27_28	Timex	0_0_3	Depend-on
+14_11_12	Timex	0_0_3	Depend-on
+15_5_5	Timex	-1_-1_-1	Depend-on
+16_1_4	Timex	0_0_3	Depend-on
+18_29_30	Timex	0_0_3	Depend-on
+18_46_47	Timex	0_0_3	Depend-on
+1_14_14	Event	0_0_3	before
+1_17_17	Event	0_0_3	before
+2_2_2	Event	0_0_3	before
+2_4_4	Event	0_0_3	before
+3_11_11	Event	3_7_8	included
+3_14_14	Event	3_7_8	included
+3_15_15	Event	3_7_8	included
+3_20_20	Event	3_7_8	included
+3_36_36	Event	0_0_3	before
+4_2_2	Event	3_1_4	included
+5_4_4	Event	3_1_4	included
+6_2_2	Event	3_1_4	included
+7_5_5	Event	7_1_2	included
+7_16_16	Event	0_0_3	before
+7_20_20	Event	0_0_3	before
+8_2_2	Event	0_0_3	before
+8_26_26	Event	0_0_3	before
+9_1_1	Event	0_0_3	before
+9_42_42	Event	0_0_3	before
+10_1_1	Event	0_0_3	before
+11_5_5	Event	11_9_10	included
+11_6_6	Event	11_9_10	included
+12_4_4	Event	11_9_10	included
+12_25_25	Event	11_9_10	included
+13_1_1	Event	11_9_10	included
+15_3_3	Event	15_5_5	included
+16_11_11	Event	0_0_3	before
+18_17_17	Event	18_29_30	included
+18_33_33	Event	18_46_47	included
+18_51_51	Event	0_0_3	before
+1_14_14	Event	-1_-1_-1	Depend-on
+1_17_17	Event	1_14_14	overlap
+2_2_2	Event	-1_-1_-1	Depend-on
+2_4_4	Event	2_2_2	overlap
+3_11_11	Event	2_2_2	overlap
+3_14_14	Event	3_11_11	overlap
+3_15_15	Event	3_14_14	overlap
+3_20_20	Event	3_11_11	overlap
+3_36_36	Event	3_20_20	before
+4_2_2	Event	3_20_20	after
+5_4_4	Event	4_2_2	after
+6_2_2	Event	4_2_2	after
+7_5_5	Event	-1_-1_-1	Depend-on
+7_16_16	Event	7_5_5	before
+7_20_20	Event	7_16_16	before
+8_2_2	Event	-1_-1_-1	Depend-on
+8_26_26	Event	-1_-1_-1	Depend-on
+9_1_1	Event	-1_-1_-1	Depend-on
+9_42_42	Event	9_1_1	after
+10_1_1	Event	-1_-1_-1	Depend-on
+11_5_5	Event	-1_-1_-1	Depend-on
+11_6_6	Event	11_5_5	overlap
+12_4_4	Event	-1_-1_-1	Depend-on
+12_25_25	Event	12_4_4	before
+13_1_1	Event	12_25_25	after
+15_3_3	Event	-1_-1_-1	Depend-on
+16_11_11	Event	15_3_3	after
+18_17_17	Event	-1_-1_-1	Depend-on
+18_33_33	Event	18_17_17	after
+18_51_51	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="77718" url="https://en.wikinews.org/wiki?curid=77718" title="Stabilized forest fires in Greece intensify again; 2 arrested"><paragraph:1_2_6_8_10_14_16_17_18>:SNT_LIST
+August 26 , 2007
+The huge forest fires that blazed across southern Greece on Friday and Saturday were stabilized for a few hours today .
+Fire Brigade Officer Nikos Tsogas said , `` It 's not getting worse ... we have to act fast because the winds might pick up . ''
+However , the winds have reportedly intensified .
+Fire department spokesman Nikos Diamandis said , `` Unfortunately the improvement that we were looking for is not there ... Our target is for the fire not to enter Ancient Olympia , not to destroy antiquities . ''
+Fire is surrounding villages just a few miles away from Ancient Olympia .
+Several new fires also broke out today in Phiotida in central Greece .
+The worst fires continue to burn in the southern mountains of Peloponnese , where some blazes involve 42 major fronts .
+The fires have killed at least 63 people .
+Some reports indicate that an unspecified number are also missing .
+Meanwhile , Greek authorities announced that they have made two arrests in the case .
+The first , a 65-year-old man , was reportedly seen torching trees across southern Peloponnese .
+The second person arrested and charged was a 77-year-old woman who reportedly was seen starting a fire while cooking outside in Zaharo .
+The Associated Press reports seven other people have been detained .
+Officer Tsogas said authorities are investigating reports of a cell phone attached to an explosive gas canister found after a smaller fire in mountain Ymittos in Athens .
+Greek private TV station `` mega channel '' has reported that more than one fire-starting mechanisms connected to cell phones have been found by volunteering citizens that are trying to help the authorities .
+Meanwhile the government has announced rewards ranging from 100,000 euros to one million euros for information on arsonists involved in this week 's barrage of wildfire ravaging much of southern Greece .
+The Greek government has declared a state of emergency .
+At least 12 European countries are sending aid and resources .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_10_10	Timex	0_0_3	Depend-on
+1_12_12	Timex	0_0_3	Depend-on
+1_16_18	Timex	0_0_3	Depend-on
+1_19_19	Timex	0_0_3	Depend-on
+6_6_6	Timex	0_0_3	Depend-on
+16_20_21	Timex	0_0_3	Depend-on
+1_3_3	Event	1_10_10	included
+1_5_5	Event	1_10_10	included
+1_14_14	Event	1_19_19	included
+2_5_5	Event	0_0_3	before
+3_6_6	Event	0_0_3	before
+4_5_5	Event	0_0_3	before
+4_14_14	Event	0_0_3	before
+5_2_2	Event	0_0_3	overlap
+6_2_2	Event	6_6_6	included
+6_4_4	Event	6_6_6	included
+7_2_2	Event	0_0_3	overlap
+7_5_5	Event	6_6_6	included
+8_1_1	Event	0_0_3	overlap
+8_3_3	Event	0_0_3	before
+9_1_1	Event	0_0_3	overlap
+9_2_2	Event	0_0_3	overlap
+10_4_4	Event	0_0_3	before
+10_8_8	Event	0_0_3	before
+10_10_10	Event	0_0_3	before
+11_9_9	Event	0_0_3	before
+11_10_10	Event	0_0_3	before
+12_3_3	Event	0_0_3	before
+12_5_5	Event	0_0_3	before
+12_13_13	Event	0_0_3	before
+12_16_16	Event	0_0_3	before
+12_18_18	Event	0_0_3	before
+13_3_3	Event	0_0_3	overlap
+13_9_9	Event	0_0_3	before
+14_2_2	Event	0_0_3	before
+14_5_5	Event	0_0_3	overlap
+14_6_6	Event	0_0_3	overlap
+14_11_11	Event	0_0_3	before
+14_17_17	Event	0_0_3	before
+14_21_21	Event	0_0_3	before
+15_9_9	Event	0_0_3	before
+15_22_22	Event	0_0_3	before
+16_4_4	Event	0_0_3	before
+16_23_23	Event	16_20_21	included
+16_25_25	Event	16_20_21	included
+16_26_26	Event	16_20_21	included
+17_4_4	Event	0_0_3	before
+18_6_6	Event	0_0_3	overlap
+1_3_3	Event	-1_-1_-1	Depend-on
+1_5_5	Event	1_3_3	overlap
+1_14_14	Event	1_5_5	after
+2_5_5	Event	-1_-1_-1	Depend-on
+3_6_6	Event	-1_-1_-1	Depend-on
+4_5_5	Event	-1_-1_-1	Depend-on
+4_14_14	Event	4_5_5	before
+5_2_2	Event	-1_-1_-1	Depend-on
+6_2_2	Event	-1_-1_-1	Depend-on
+6_4_4	Event	6_2_2	overlap
+7_2_2	Event	-1_-1_-1	Depend-on
+7_5_5	Event	7_2_2	overlap
+8_1_1	Event	-1_-1_-1	Depend-on
+8_3_3	Event	8_1_1	overlap
+9_1_1	Event	8_3_3	after
+9_2_2	Event	9_1_1	overlap
+10_4_4	Event	-1_-1_-1	Depend-on
+10_8_8	Event	10_4_4	before
+10_10_10	Event	10_8_8	overlap
+11_9_9	Event	10_10_10	before
+11_10_10	Event	11_9_9	overlap
+12_3_3	Event	10_10_10	overlap
+12_5_5	Event	12_3_3	after
+12_13_13	Event	12_3_3	before
+12_16_16	Event	12_13_13	overlap
+12_18_18	Event	12_13_13	overlap
+13_3_3	Event	-1_-1_-1	Depend-on
+13_9_9	Event	13_3_3	before
+14_2_2	Event	-1_-1_-1	Depend-on
+14_5_5	Event	14_2_2	overlap
+14_6_6	Event	14_5_5	before
+14_11_11	Event	14_6_6	before
+14_17_17	Event	14_11_11	after
+14_21_21	Event	14_17_17	before
+15_9_9	Event	-1_-1_-1	Depend-on
+15_22_22	Event	15_9_9	before
+16_4_4	Event	-1_-1_-1	Depend-on
+16_23_23	Event	16_4_4	before
+16_25_25	Event	16_23_23	overlap
+16_26_26	Event	16_25_25	overlap
+17_4_4	Event	-1_-1_-1	Depend-on
+18_6_6	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="77742" url="https://en.wikinews.org/wiki?curid=77742" title="Health Canada issues further warning on toothpaste from India"><paragraph:1_3_5_7_8>:SNT_LIST
+August 26 , 2007
+The Canadian government , through Health Canada , has issued an additional warning to Canadians not to use `` Neem Active Toothpaste with Calcium '' , as testing revealed the presence of high levels of harmful bacteria .
+The same brand of toothpaste was subject to a recall July 26 , 2007 when it was found to contain unacceptable levels of diethylene glycol -LRB- DEG -RRB- .
+Health Canada has advised Canadians to discontinue use of the toothpaste , which is manufactured by Calcutta Chemical Co. Ltd. in India , and keep it out of the reach of children .
+The toothpaste is not approved for sale in Canada , but has been found in stores across the country .
+Although the species of bacteria found was not revealed by Health Canada , they described possible adverse effects such as `` fever , urinary tract infection , and gastrointestinal symptoms such as vomiting , diarrhea and abdominal pain . ''
+A specific warning focused on particularly vulnerable groups ; infants , children and hospitalised patients with compromised immune systems .
+This current warning from Health Canada follows a similar recall of toothpaste from China , including some counterfeit Colgate brands , which were found to contain DEG and high levels of harmful bacteria .
+To obtain more information on the most recent warning , consumers are advised to call Health Canada 's public enquiries line at 1-866-225-0709 .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+2_10_13	Timex	-1_-1_-1	Depend-on
+7_1_1	Timex	0_0_3	Depend-on
+8_7_7	Timex	0_0_3	Depend-on
+1_9_9	Event	0_0_3	before
+1_27_27	Event	0_0_3	before
+1_28_28	Event	0_0_3	before
+2_9_9	Event	2_10_13	included
+2_17_17	Event	0_0_3	before
+2_19_19	Event	0_0_3	before
+3_3_3	Event	0_0_3	before
+4_13_13	Event	0_0_3	before
+5_5_5	Event	0_0_3	before
+5_14_14	Event	0_0_3	before
+6_2_2	Event	0_0_3	before
+7_9_9	Event	0_0_3	before
+7_23_23	Event	0_0_3	before
+1_9_9	Event	-1_-1_-1	Depend-on
+1_27_27	Event	1_9_9	before
+1_28_28	Event	1_27_27	overlap
+2_9_9	Event	1_9_9	before
+2_17_17	Event	2_9_9	before
+2_19_19	Event	2_17_17	before
+3_3_3	Event	-1_-1_-1	Depend-on
+4_13_13	Event	3_3_3	before
+5_5_5	Event	-1_-1_-1	Depend-on
+5_14_14	Event	-1_-1_-1	Depend-on
+6_2_2	Event	-1_-1_-1	Depend-on
+7_9_9	Event	-1_-1_-1	Depend-on
+7_23_23	Event	7_9_9	before
+
+
+filename:<doc id="77749" url="https://en.wikinews.org/wiki?curid=77749" title="Investigators discover hole in fuel tank of burnt-out China Airlines jet"><paragraph:1_2_4_6_7_10>:SNT_LIST
+August 26 , 2007
+Investigators have discovered a hole in the fuel tank of the China Airlines jet that caught fire and exploded on August 20 on the island of Okinawa , Japan .
+Investigators from Japan , Taiwan and the United States have all been examining the wreckage of China Airlines Flight 120 since the accident .
+Now , Japanese investigators say that they have found that a structural bolt had pierced the fuel tank of the Boeing 737-800 series aircraft .
+`` We spotted a hole in a fuel tank , '' said a brief statement by the transport ministry 's investigative division .
+`` We suspect that oil leaked from this hole and spilled from the right wing to the outside . ''
+It is understood that , prior to the discovery of the hole , the investigation had been focusing on the tubing connecting the fuel tank to the engine , rather than the tank itself .
+Taiwan-based China Airlines 's only comment was to repeat earlier comments that the plane had been inspected last month , at which point the airline had been unable to find any problem with it .
+However , prior to this news , the chief executive flew to Okinawa to console worried tourists , while chairman Philip Wei offered to resign '' ... in a bid to shoulder his responsibility , '' , according to an airline official .
+The airline is also offering compensation to passengers on the flight .
+Boeing refused to comment on the incident , citing the fact that the investigation remains open .
+However , the `` Jiji Press '' has reported that Boeing had warned airlines in 2006 about the possibility of bolts piercing the fuel tanks , after a number of incidents in which tank piercing was found to have occurred .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_20_21	Timex	0_0_3	Depend-on
+3_0_0	Timex	0_0_3	Depend-on
+7_17_18	Timex	0_0_3	Depend-on
+11_15_15	Timex	-1_-1_-1	Depend-on
+1_2_2	Event	0_0_3	before
+1_15_15	Event	1_20_21	included
+1_16_16	Event	1_20_21	included
+1_18_18	Event	1_20_21	included
+2_12_12	Event	0_0_3	before
+2_22_22	Event	1_20_21	included
+3_4_4	Event	3_0_0	included
+3_8_8	Event	0_0_3	before
+3_14_14	Event	1_20_21	included
+4_2_2	Event	0_0_3	before
+4_11_11	Event	0_0_3	before
+4_14_14	Event	0_0_3	before
+6_8_8	Event	0_0_3	before
+6_14_14	Event	0_0_3	before
+7_5_5	Event	0_0_3	before
+7_8_8	Event	0_0_3	before
+7_10_10	Event	0_0_3	before
+7_16_16	Event	7_17_18	included
+8_5_5	Event	0_0_3	before
+8_10_10	Event	0_0_3	before
+8_14_14	Event	0_0_3	before
+8_22_22	Event	0_0_3	before
+9_4_4	Event	0_0_3	overlap
+10_1_1	Event	0_0_3	before
+10_6_6	Event	1_20_21	included
+10_13_13	Event	0_0_3	overlap
+11_8_8	Event	0_0_3	before
+11_12_12	Event	11_15_15	included
+11_30_30	Event	0_0_3	before
+11_34_34	Event	0_0_3	before
+11_36_36	Event	11_15_15	included
+11_39_39	Event	11_15_15	included
+1_2_2	Event	-1_-1_-1	Depend-on
+1_15_15	Event	1_2_2	before
+1_16_16	Event	1_15_15	overlap
+1_18_18	Event	1_16_16	after
+2_12_12	Event	-1_-1_-1	Depend-on
+2_22_22	Event	2_12_12	before
+3_4_4	Event	2_22_22	after
+3_8_8	Event	3_4_4	before
+3_14_14	Event	3_8_8	before
+4_2_2	Event	-1_-1_-1	Depend-on
+4_11_11	Event	4_2_2	after
+4_14_14	Event	4_11_11	overlap
+6_8_8	Event	-1_-1_-1	Depend-on
+6_14_14	Event	6_8_8	before
+7_5_5	Event	-1_-1_-1	Depend-on
+7_8_8	Event	7_5_5	overlap
+7_10_10	Event	7_8_8	overlap
+7_16_16	Event	7_10_10	before
+8_5_5	Event	-1_-1_-1	Depend-on
+8_10_10	Event	8_5_5	before
+8_14_14	Event	8_10_10	after
+8_22_22	Event	8_10_10	overlap
+9_4_4	Event	-1_-1_-1	Depend-on
+10_1_1	Event	-1_-1_-1	Depend-on
+10_6_6	Event	10_1_1	before
+10_13_13	Event	10_6_6	after
+11_8_8	Event	-1_-1_-1	Depend-on
+11_12_12	Event	11_8_8	before
+11_30_30	Event	11_12_12	before
+11_34_34	Event	11_30_30	overlap
+11_36_36	Event	11_34_34	after
+11_39_39	Event	11_36_36	before
+
+
+filename:<doc id="77869" url="https://en.wikinews.org/wiki?curid=77869" title="Families angered at £400,000 fine imposed on Stockline Plastics"><paragraph:1_2_3>:SNT_LIST
+August 28 , 2007
+The families of workers killed in the blast at the Stockline plastics factory in 2004 , are criticizing the £ 400,000 fine imposed on the company .
+They are upset at the amount of the fine imposed on the company .
+The Scottish TUC gave the following statement : `` No level of fine can adequately reflect the loss that these families have suffered .
+Our justice system appears to be totally inflexible in the sentences that judges can impose following breaches of health and safety legislation . ''
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_14_14	Timex	-1_-1_-1	Depend-on
+1_4_4	Event	1_14_14	included
+1_7_7	Event	1_14_14	included
+1_17_17	Event	0_0_3	overlap
+1_21_21	Event	0_0_3	before
+1_22_22	Event	0_0_3	before
+2_8_8	Event	0_0_3	before
+2_9_9	Event	0_0_3	before
+3_3_3	Event	0_0_3	before
+3_6_6	Event	0_0_3	before
+3_17_17	Event	1_14_14	included
+3_22_22	Event	1_14_14	included
+1_4_4	Event	-1_-1_-1	Depend-on
+1_7_7	Event	1_4_4	overlap
+1_17_17	Event	1_7_7	after
+1_21_21	Event	1_17_17	before
+1_22_22	Event	1_21_21	overlap
+2_8_8	Event	1_21_21	overlap
+2_9_9	Event	2_8_8	overlap
+3_3_3	Event	-1_-1_-1	Depend-on
+3_6_6	Event	3_3_3	overlap
+3_17_17	Event	1_4_4	after
+3_22_22	Event	3_17_17	overlap
+
+
+filename:<doc id="77870" url="https://en.wikinews.org/wiki?curid=77870" title="Pakistan test fires nuclear-capable cruise missile"><paragraph:1_2_4_6>:SNT_LIST
+August 28 , 2007
+Pakistan successfully test fired a new cruise missile on Saturday that is capable of carrying nuclear weapons .
+The announcement was made by the nation 's military in a statement , saying that the air-launched Ra'ad -LRB- meaning ` thunder ' in Arabic -RRB- missile has been successfully tested .
+The missile is constructed using materials and designs specifically developed for stealth and has a range of 350 kilometres , they said .
+The missile was developed exclusively in Pakistan , and , according to the statement , has been built specifically with Pakistan 's existing air force platforms in mind , in order to give these ` a strategic stand-off capability on land and at sea , ' .
+The statement also said that the missile 's accuracy was comparable to Pakistan 's long-range Babur missile , and that the missile is capable of carrying `` all types of warheads '' .
+Both the Pakistani prime minister , Shaukat Aziz and the president , Pervez Musharraf , congratulated the team of scientists and engineers who developed the new technology .
+`` Pakistan 's defense will continue to be strengthened as an imperative of national security , they said , and assured all support to Pakistan 's strategic program , '' according to the army .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_9_9	Timex	0_0_3	Depend-on
+1_2_2	Event	1_9_9	included
+1_3_3	Event	1_9_9	included
+2_1_1	Event	0_0_3	before
+2_3_3	Event	0_0_3	before
+2_11_11	Event	0_0_3	before
+2_13_13	Event	0_0_3	before
+2_30_30	Event	1_9_9	included
+3_3_3	Event	0_0_3	overlap
+3_4_4	Event	0_0_3	overlap
+3_9_9	Event	0_0_3	before
+3_21_21	Event	0_0_3	before
+4_3_3	Event	0_0_3	before
+4_13_13	Event	0_0_3	before
+4_17_17	Event	0_0_3	before
+5_1_1	Event	0_0_3	before
+5_3_3	Event	0_0_3	before
+6_15_15	Event	0_0_3	before
+6_23_23	Event	0_0_3	before
+7_17_17	Event	0_0_3	before
+7_20_20	Event	0_0_3	before
+1_2_2	Event	-1_-1_-1	Depend-on
+1_3_3	Event	1_2_2	overlap
+2_1_1	Event	1_2_2	after
+2_3_3	Event	2_1_1	overlap
+2_11_11	Event	2_3_3	overlap
+2_13_13	Event	2_3_3	overlap
+2_30_30	Event	2_13_13	before
+3_3_3	Event	2_30_30	before
+3_4_4	Event	3_3_3	overlap
+3_9_9	Event	3_4_4	before
+3_21_21	Event	3_3_3	after
+4_3_3	Event	1_2_2	before
+4_13_13	Event	4_3_3	after
+4_17_17	Event	4_3_3	overlap
+5_1_1	Event	4_13_13	overlap
+5_3_3	Event	5_1_1	overlap
+6_15_15	Event	1_2_2	after
+6_23_23	Event	6_15_15	before
+7_17_17	Event	6_15_15	overlap
+7_20_20	Event	7_17_17	after
+
+
+filename:<doc id="77871" url="https://en.wikinews.org/wiki?curid=77871" title="European football: Sevilla player dies after collapsing during game"><paragraph:1_2_5_6_7>:SNT_LIST
+August 28 , 2007
+Seville , Spain Sevilla midfielder Antonio Puerta died today at the age of 22 .
+Puerta had been in critical condition at Virgen del Rocio hospital since collapsing during a game against Getafe .
+Puerta 's body will be taken to the club 's stadium where fans could pay their respects .
+He will be buried on Thursday .
+Puerta collapsed after jogging back towards his own goal in the 35 minute of the game .
+Spanish media reported that Puerta was due to become a father in under 2 months .
+The UEFA Champions League 3rd qualifying round 2nd leg against AEK Athens in Athens today has been postponed .
+The game will be played on September 3rd .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_8_8	Timex	0_0_3	Depend-on
+4_5_5	Timex	0_0_3	Depend-on
+5_10_12	Timex	0_0_3	Depend-on
+6_13_14	Timex	0_0_3	Depend-on
+7_14_14	Timex	0_0_3	Depend-on
+8_6_7	Timex	0_0_3	Depend-on
+1_7_7	Event	1_8_8	included
+2_12_12	Event	0_0_3	before
+3_5_5	Event	0_0_3	after
+4_3_3	Event	4_5_5	included
+5_1_1	Event	0_0_3	before
+5_3_3	Event	0_0_3	before
+6_2_2	Event	0_0_3	before
+6_8_8	Event	0_0_3	after
+7_17_17	Event	0_0_3	before
+8_4_4	Event	8_6_7	included
+1_7_7	Event	-1_-1_-1	Depend-on
+2_12_12	Event	1_7_7	before
+3_5_5	Event	1_7_7	after
+4_3_3	Event	3_5_5	after
+5_1_1	Event	-1_-1_-1	Depend-on
+5_3_3	Event	5_1_1	before
+6_2_2	Event	-1_-1_-1	Depend-on
+6_8_8	Event	6_2_2	after
+7_17_17	Event	-1_-1_-1	Depend-on
+8_4_4	Event	7_17_17	after
+
+
+filename:<doc id="77900" url="https://en.wikinews.org/wiki?curid=77900" title="Carling Cup: Match abandoned after player collapses"><paragraph:1_2_3_6_7_8>:SNT_LIST
+August 28 , 2007
+The Carling Cup tie between Leicester City and Nottingham Forest was abandoned at half time after Leicester defender Clive Clarke collapsed in the changing room at half time .
+Shortly after the half time whistle , paramedics were called into the changing room before taking Clarke to Queens Medical Centre in Nottingham .
+Tim Davies , Leicester City 's chief executive said : `` He was taken away in an ambulance to hospital .
+He did offer a few words in the ambulance .
+Our thoughts and prayers are with Clive and his family . ''
+The Nottingham Forest chief executive added : `` I think football is secondary to human issues . ''
+Nottingham Forest had been leading 1-0 at the time after a goal from Junior Agogo , however after a 15 minute delay both managers agreed to abandon the game as many of the players had been shaken up by the incident .
+Clarke is currently believed to be conscious .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+7_19_20	Timex	0_0_3	Depend-on
+8_2_2	Timex	0_0_3	Depend-on
+1_3_3	Event	0_0_3	before
+1_11_11	Event	0_0_3	before
+1_20_20	Event	0_0_3	before
+2_5_5	Event	0_0_3	before
+2_9_9	Event	0_0_3	before
+2_15_15	Event	0_0_3	before
+3_8_8	Event	0_0_3	before
+3_13_13	Event	0_0_3	before
+4_2_2	Event	0_0_3	before
+6_5_5	Event	0_0_3	before
+7_21_21	Event	0_0_3	before
+7_36_36	Event	0_0_3	before
+7_40_40	Event	0_0_3	before
+1_3_3	Event	-1_-1_-1	Depend-on
+1_11_11	Event	1_3_3	after
+1_20_20	Event	1_11_11	before
+2_5_5	Event	-1_-1_-1	Depend-on
+2_9_9	Event	2_5_5	after
+2_15_15	Event	2_9_9	after
+3_8_8	Event	-1_-1_-1	Depend-on
+3_13_13	Event	3_8_8	before
+4_2_2	Event	3_13_13	overlap
+6_5_5	Event	3_8_8	after
+7_21_21	Event	-1_-1_-1	Depend-on
+7_36_36	Event	7_21_21	after
+7_40_40	Event	7_36_36	before
+
+
+filename:<doc id="77904" url="https://en.wikinews.org/wiki?curid=77904" title="Sen. Larry Craig claims innocent of lewd conduct"><paragraph:1_2_3_10_12>:SNT_LIST
+August 28 , 2007
+Sen. Larry Craig held a news conference Tuesday in Boise , Idaho to issue a public statement about his arrest in June , 2007 and subsequent guilty plea , August 8 , to a misdemeanor charge of disorderly conduct .
+In his statement , Sen. Craig indicated that when he pled guilty to the charge , two months after the fact , he did n't understand at the time what he was signing and declared himself innocent of any wrongdoing at the Minneapolis airport on June 11 , 2007 .
+According to the arresting officer , Sgt. Dave Karsnia , who was dressed in civilian clothes at the time of the incident , he was using a bathroom stall when Sen. Craig entered the stall next to his .
+Karsnia reported the Senator tapped his right foot , and then stretched his foot over to touch the officer 's left foot .
+Sen. Craig also ran his hand along the bottom of the stall 's dividing wall .
+According to CNN , that type of behavior is known in the Gay community as a signal that the person wants to engage in lewd behavior .
+The officer subsequently showed Sen. Craig his badge .
+Using his other hand , Karsnia directed Craig to move toward the door .
+After some words and Sen. Craig 's refusal to cooperate with the officer , he was placed under arrest .
+An additional charge against Sen. Craig , interference with privacy , had been thrown out .
+Sen. Craig received a ten-day suspended jail sentence , was fined US$ 500 , and was given one year probation .
+Sen. Craig admitted that he did not mention his arrest to the Senate Ethics Committee , which is not required by law , and also did n't tell his wife and other immediate family members about his arrest until recent days .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_7_7	Timex	0_0_3	Depend-on
+1_21_21	Timex	0_0_3	Depend-on
+1_23_23	Timex	-1_-1_-1	Depend-on
+1_29_30	Timex	0_0_3	Depend-on
+2_16_17	Timex	0_0_3	Depend-on
+2_45_48	Timex	-1_-1_-1	Depend-on
+11_4_4	Timex	0_0_3	Depend-on
+11_17_18	Timex	0_0_3	Depend-on
+12_39_40	Timex	0_0_3	Depend-on
+1_3_3	Event	1_7_7	included
+1_6_6	Event	1_7_7	included
+1_13_13	Event	1_7_7	included
+1_16_16	Event	1_7_7	included
+1_19_19	Event	1_21_21	included
+1_27_27	Event	1_29_30	included
+1_35_35	Event	0_0_3	before
+2_2_2	Event	1_7_7	included
+2_6_6	Event	1_7_7	included
+2_10_10	Event	1_29_30	included
+2_20_20	Event	2_45_48	included
+2_32_32	Event	1_29_30	included
+2_34_34	Event	1_7_7	included
+3_12_12	Event	1_21_21	included
+3_21_21	Event	1_21_21	included
+3_25_25	Event	1_21_21	included
+3_32_32	Event	1_21_21	included
+4_1_1	Event	0_0_3	before
+4_4_4	Event	1_21_21	included
+4_11_11	Event	1_21_21	included
+4_16_16	Event	1_21_21	included
+5_3_3	Event	1_21_21	included
+7_3_3	Event	1_21_21	included
+8_0_0	Event	1_21_21	included
+8_6_6	Event	1_21_21	included
+9_7_7	Event	1_21_21	included
+9_16_16	Event	0_0_3	before
+9_18_18	Event	0_0_3	before
+10_2_2	Event	0_0_3	before
+10_13_13	Event	0_0_3	before
+11_2_2	Event	0_0_3	before
+11_7_7	Event	0_0_3	after
+11_10_10	Event	0_0_3	before
+11_16_16	Event	0_0_3	before
+11_19_19	Event	0_0_3	overlap
+12_2_2	Event	0_0_3	before
+12_9_9	Event	1_21_21	included
+12_37_37	Event	1_21_21	included
+1_3_3	Event	-1_-1_-1	Depend-on
+1_6_6	Event	1_3_3	overlap
+1_13_13	Event	1_6_6	overlap
+1_16_16	Event	1_13_13	overlap
+1_19_19	Event	1_3_3	before
+1_27_27	Event	1_19_19	after
+1_35_35	Event	1_27_27	before
+2_2_2	Event	1_16_16	overlap
+2_6_6	Event	2_2_2	overlap
+2_10_10	Event	2_6_6	before
+2_20_20	Event	2_10_10	before
+2_32_32	Event	2_10_10	overlap
+2_34_34	Event	2_2_2	overlap
+3_12_12	Event	1_19_19	overlap
+3_21_21	Event	3_12_12	overlap
+3_25_25	Event	3_21_21	overlap
+3_32_32	Event	3_25_25	overlap
+4_1_1	Event	3_21_21	after
+4_4_4	Event	4_1_1	before
+4_11_11	Event	4_4_4	after
+4_16_16	Event	4_11_11	after
+5_3_3	Event	4_1_1	before
+7_3_3	Event	5_3_3	after
+8_0_0	Event	7_3_3	after
+8_6_6	Event	8_0_0	overlap
+9_7_7	Event	8_6_6	after
+9_16_16	Event	9_7_7	after
+9_18_18	Event	9_16_16	overlap
+10_2_2	Event	-1_-1_-1	Depend-on
+10_13_13	Event	10_2_2	overlap
+11_2_2	Event	10_13_13	overlap
+11_7_7	Event	11_2_2	overlap
+11_10_10	Event	-1_-1_-1	Depend-on
+11_16_16	Event	-1_-1_-1	Depend-on
+11_19_19	Event	11_16_16	overlap
+12_2_2	Event	1_19_19	after
+12_9_9	Event	12_2_2	before
+12_37_37	Event	12_9_9	overlap
+
+
+filename:<doc id="78005" url="https://en.wikinews.org/wiki?curid=78005" title="Comedian Colin Mochrie to host Canadian &quot;5th Grader&quot; game show"><paragraph:1_3_4_5_8_10_11>:SNT_LIST
+August 29 , 2007
+Canadian comedian Colin Mochrie has been named host of `` Are You Smarter Than a Canadian 5th Grader ? ''
+, according to a Wednesday afternoon press release from Global TV , which is producing and airing the series .
+Based on the American series Are You Smarter Than a 5th Grader , the program quizzes adults on material found in textbooks for children in grades 1 through 5 .
+Colin commented , `` I have been from one end of this country to the other and met adults of all ages , and let me tell you ... those 5th Graders have nothing to worry about . ''
+Mochrie is best known as an improv comedian on both the British and American versions of `` Whose Line Is It Anyway ? ''
+, but the Second City alumni has starred in Canadian comedy show This Hour Has 22 Minutes , Blackfly and Getting Along Famously .
+He tours North America with Whose 's Line co-star Brad Sherwood , performing at numerous locales .
+The American series is hosted by Jeff Foxworthy .
+Thirteen other countries run or will run their own adaptations .
+Mochrie will donate a portion of his paycheck to CanWest Raise-a-Reader , a family literacy program run by the host media conglomerate .
+Only five episodes will be taped in Toronto , initially .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+2_4_5	Timex	0_0_3	Depend-on
+1_6_6	Event	0_0_3	before
+2_7_7	Event	2_4_5	included
+2_14_14	Event	0_0_3	overlap
+2_16_16	Event	0_0_3	overlap
+3_19_19	Event	0_0_3	overlap
+4_1_1	Event	0_0_3	before
+4_17_17	Event	0_0_3	before
+6_7_7	Event	0_0_3	before
+7_1_1	Event	0_0_3	overlap
+7_12_12	Event	0_0_3	overlap
+9_3_3	Event	0_0_3	overlap
+9_6_6	Event	0_0_3	after
+10_2_2	Event	0_0_3	after
+11_5_5	Event	0_0_3	after
+1_6_6	Event	-1_-1_-1	Depend-on
+2_7_7	Event	1_6_6	after
+2_14_14	Event	-1_-1_-1	Depend-on
+2_16_16	Event	2_14_14	after
+3_19_19	Event	-1_-1_-1	Depend-on
+4_1_1	Event	-1_-1_-1	Depend-on
+4_17_17	Event	4_1_1	before
+6_7_7	Event	-1_-1_-1	Depend-on
+7_1_1	Event	-1_-1_-1	Depend-on
+7_12_12	Event	7_1_1	overlap
+9_3_3	Event	-1_-1_-1	Depend-on
+9_6_6	Event	-1_-1_-1	Depend-on
+10_2_2	Event	-1_-1_-1	Depend-on
+11_5_5	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="78133" url="https://en.wikinews.org/wiki?curid=78133" title="Immigration raid at Ohio poultry plant"><paragraph:1_3_5_6>:SNT_LIST
+August 30 , 2007
+Roughly 160 Illegal immigrants were arrested when federal authorities raided a chicken plant in Fairfield , Ohio .
+US Immigration and Customs Enforcement confirms a Search warrant was conducted Tuesday , however , they made no arrests .
+Koch poultry was also raided earlier in the day Tuesday when dozens of suspected illegal immigrants were arrested .
+According to federal officials , the poultry plant has a reputation of hiring undocumented workers .
+According to Koch poultry officials , over 150 employees have had their employment terminated after finding that they had not entered the United States legally .
+Federal officials state that meat processing plants are frequent targets for undocumented workers .
+They also state that officials are stepping up efforts to track down undocumented workers .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+2_11_11	Timex	0_0_3	Depend-on
+3_9_9	Timex	0_0_3	Depend-on
+1_5_5	Event	0_0_3	before
+1_9_9	Event	0_0_3	before
+2_5_5	Event	0_0_3	overlap
+2_10_10	Event	2_11_11	included
+3_4_4	Event	3_9_9	included
+3_17_17	Event	3_9_9	included
+5_13_13	Event	0_0_3	before
+5_15_15	Event	0_0_3	before
+6_2_2	Event	0_0_3	overlap
+7_2_2	Event	0_0_3	overlap
+7_6_6	Event	0_0_3	overlap
+1_5_5	Event	-1_-1_-1	Depend-on
+1_9_9	Event	1_5_5	before
+2_5_5	Event	-1_-1_-1	Depend-on
+2_10_10	Event	2_5_5	before
+3_4_4	Event	-1_-1_-1	Depend-on
+3_17_17	Event	3_4_4	after
+5_13_13	Event	-1_-1_-1	Depend-on
+5_15_15	Event	5_13_13	before
+6_2_2	Event	-1_-1_-1	Depend-on
+7_2_2	Event	-1_-1_-1	Depend-on
+7_6_6	Event	7_2_2	overlap
+
+
+filename:<doc id="78145" url="https://en.wikinews.org/wiki?curid=78145" title="Iraqi peace talks to begin in Finland within days"><paragraph:1_2_4_6_7>:SNT_LIST
+August 30 , 2007
+Talks aimed at negotiating peace between Iraqi Shi'ites and Sunni Muslims , the two largest population groups in Iraq , are set to take place in Finland within the next few days .
+The Crisis Management Initiative -LRB- CMI -RRB- and the Finnish Foreign Ministry have both confirmed reports that the pre-arranged talks are scheduled to begin soon in an undisclosed location in Finland .
+The CMI , a non-governmental organisation founded by former President of Finland Martti Ahtisaari , has organised the talks , which are said to include key politicians , including representatives of major political parties .
+Although the CMI will host the talks , Finland will take no direct role in the discussions .
+Martti Ahtisaari specifically will not take part , either .
+All of those to take part in the mediations are still to arrive in Finland , including mediators from Northern Ireland and South Africa , who have already negotiated successful peace deals in their own countries .
+The CMI has already succeeded once in helping two rival factions come to a peace deal .
+In 2005 , the organisation arranged successful talks between the Indonesian government and the Free Aceh Movement .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_28_31	Timex	0_0_3	Depend-on
+8_1_1	Timex	-1_-1_-1	Depend-on
+1_21_21	Event	0_0_3	overlap
+1_23_23	Event	0_0_3	after
+2_14_14	Event	0_0_3	before
+2_15_15	Event	0_0_3	before
+2_19_19	Event	0_0_3	after
+2_21_21	Event	0_0_3	overlap
+3_6_6	Event	0_0_3	before
+3_16_16	Event	0_0_3	before
+3_18_18	Event	0_0_3	after
+4_4_4	Event	0_0_3	after
+4_6_6	Event	0_0_3	after
+4_10_10	Event	0_0_3	before
+4_16_16	Event	0_0_3	after
+6_4_4	Event	0_0_3	after
+6_8_8	Event	0_0_3	after
+6_12_12	Event	0_0_3	after
+6_28_28	Event	0_0_3	before
+7_4_4	Event	8_1_1	included
+7_7_7	Event	8_1_1	included
+7_11_11	Event	0_0_3	before
+8_5_5	Event	8_1_1	included
+8_7_7	Event	8_1_1	included
+1_21_21	Event	-1_-1_-1	Depend-on
+1_23_23	Event	1_21_21	after
+2_14_14	Event	-1_-1_-1	Depend-on
+2_15_15	Event	2_14_14	before
+2_19_19	Event	2_14_14	after
+2_21_21	Event	2_19_19	before
+3_6_6	Event	2_21_21	before
+3_16_16	Event	3_6_6	after
+3_18_18	Event	3_16_16	after
+4_4_4	Event	-1_-1_-1	Depend-on
+4_6_6	Event	4_4_4	overlap
+4_10_10	Event	4_6_6	overlap
+4_16_16	Event	4_10_10	overlap
+6_4_4	Event	1_23_23	overlap
+6_8_8	Event	6_4_4	overlap
+6_12_12	Event	6_8_8	before
+6_28_28	Event	-1_-1_-1	Depend-on
+7_4_4	Event	-1_-1_-1	Depend-on
+7_7_7	Event	7_4_4	overlap
+7_11_11	Event	7_7_7	overlap
+8_5_5	Event	7_11_11	overlap
+8_7_7	Event	8_5_5	after
+
+
+filename:<doc id="783125" url="https://en.wikinews.org/wiki?curid=783125" title="Nelson Mandela's health showing 'slow but steady improvement'"><paragraph:1_3_5_9>:SNT_LIST
+August 12 , 2013
+South African President Jacob Zuma announced yesterday that the health of former President and anti-apartheid campaigner Nelson Mandela was showing a `` slow but steady improvement '' .
+The 95-year-old was admitted to hospital on June 8 with a lung infection .
+Zuma 's statement mirrors that of Mandela 's youngest daughter Zindzi who told the state-owned television company SABC on Friday that Mandela `` now manages to sit up , like now he is able to sit up in a chair for a few minutes in a day .
+Every day you know , he is becoming more alert , more responsive and so on . ''
+Zindzi was confident in her father 's recovery : '' -LSB- He -RSB- is determined not to go anywhere anytime soon .
+I can not stress this enough .
+People must stop saying to the family ` let go , let go ' .
+We are just looking at this man who is saying ` I 'm not going anywhere ' . ''
+According to legal documents filed by Mandela 's family , he was at one stage on life support .
+All vehicles entering the hospital in Pretoria where Mandela is being treated are being searched by police officers .
+Well-wishers have left messages and flowers for Mandela .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_6_6	Timex	0_0_3	Depend-on
+2_7_8	Timex	0_0_3	Depend-on
+3_19_19	Timex	0_0_3	Depend-on
+3_23_23	Timex	0_0_3	Depend-on
+3_30_30	Timex	0_0_3	Depend-on
+3_41_43	Timex	0_0_3	Depend-on
+3_45_46	Timex	0_0_3	Depend-on
+4_0_1	Timex	0_0_3	Depend-on
+1_5_5	Event	1_6_6	included
+1_19_19	Event	1_6_6	included
+1_25_25	Event	1_6_6	included
+2_3_3	Event	2_7_8	included
+3_2_2	Event	1_6_6	included
+3_3_3	Event	1_6_6	included
+3_12_12	Event	3_19_19	included
+8_3_3	Event	0_0_3	before
+8_9_9	Event	0_0_3	before
+9_4_4	Event	0_0_3	before
+10_2_2	Event	0_0_3	overlap
+10_11_11	Event	0_0_3	overlap
+10_14_14	Event	0_0_3	overlap
+11_2_2	Event	0_0_3	before
+1_5_5	Event	-1_-1_-1	Depend-on
+1_19_19	Event	1_5_5	overlap
+1_25_25	Event	1_19_19	overlap
+2_3_3	Event	-1_-1_-1	Depend-on
+3_2_2	Event	-1_-1_-1	Depend-on
+3_3_3	Event	3_2_2	overlap
+3_12_12	Event	3_3_3	before
+8_3_3	Event	3_12_12	overlap
+8_9_9	Event	8_3_3	overlap
+9_4_4	Event	-1_-1_-1	Depend-on
+10_2_2	Event	-1_-1_-1	Depend-on
+10_11_11	Event	10_2_2	overlap
+10_14_14	Event	10_11_11	overlap
+11_2_2	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="8514" url="https://en.wikinews.org/wiki?curid=8514" title="Radioactive soil from Maine reactor refused at landfill in Utah"><paragraph:1_4_6>:SNT_LIST
+April 22 , 2005
+Envirocare , a corporation that runs a landfill in Utah that accepts radioactive waste , has turned away a shipment of soil from around the Maine Yankee nuclear power plant in Wiscasset , Maine , the `` Portland Press Herald '' reported .
+The soil , which is held in 48 boxcars , was contaminated during the 26 years during which the Maine Yankee plant generated electricity .
+The shipment was refused due to excess water in previous shipments .
+The plant stopped producing electricity in 1997 ; its concrete dome was detonated in September of 2004 .
+The decommissioning is scheduled for completion by the summer of 2005 .
+In a related development , a Wiscasset environmental organization , the Chewonki Foundation , has taken possession of a 200 acre portion of the former power plant 's lands ; the Foundation will act as stewards of the land , according to the `` Wiscasset Newspaper '' .
+The plot , known as Eaton Farm for its previous agricultural use , will be the site of what Chewonki Foundation Executive Director W. Donald Hudson , Ph.D. , calls , `` the coolest trail in the state of Maine . ''
+The five miles of trail on the Eaton Farm land will be part of a 12 mile trail that may eventually run from downtown Wiscasset to Montsweag Bay .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+2_13_15	Timex	0_0_3	Depend-on
+4_6_6	Timex	-1_-1_-1	Depend-on
+4_14_16	Timex	-1_-1_-1	Depend-on
+5_7_10	Timex	-1_-1_-1	Depend-on
+1_16_16	Event	0_0_3	before
+1_41_41	Event	0_0_3	before
+2_5_5	Event	0_0_3	before
+2_11_11	Event	0_0_3	before
+2_22_22	Event	0_0_3	before
+3_3_3	Event	0_0_3	before
+3_6_6	Event	0_0_3	before
+4_2_2	Event	4_6_6	included
+4_12_12	Event	4_14_16	included
+5_3_3	Event	0_0_3	overlap
+5_5_5	Event	0_0_3	before
+6_3_3	Event	0_0_3	before
+6_15_15	Event	0_0_3	before
+6_33_33	Event	0_0_3	after
+7_29_29	Event	0_0_3	overlap
+1_16_16	Event	-1_-1_-1	Depend-on
+1_41_41	Event	1_16_16	after
+2_5_5	Event	1_16_16	overlap
+2_11_11	Event	2_5_5	overlap
+2_22_22	Event	2_11_11	overlap
+3_3_3	Event	1_16_16	overlap
+3_6_6	Event	3_3_3	before
+4_2_2	Event	-1_-1_-1	Depend-on
+4_12_12	Event	4_2_2	after
+5_3_3	Event	4_12_12	after
+5_5_5	Event	5_3_3	after
+6_3_3	Event	-1_-1_-1	Depend-on
+6_15_15	Event	6_3_3	overlap
+6_33_33	Event	6_15_15	after
+7_29_29	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="865" url="https://en.wikinews.org/wiki?curid=865" title="Firefox 1.0 Internet Browser released by Mozilla Foundation"><paragraph:1_2_4>:SNT_LIST
+November 16 , 2004
+Mozilla Firefox 1.0 , a free open-source web browser , has been released on November 9 , 2004 by the Mozilla Foundation .
+Some major characteristics of the browser are : pop-up blocking , tabbed browsing , integrated RSS news reader , themes , online fraud protection , extendable with add-ons and multi-platform -LRB- it works on Windows , Linux and Mac OS X -RRB- .
+As of November 16 , 2004 , there are Firefox versions in the following languages : Norwegian , Polish , Finnish , Italian , Japanese , Greek , Korean , Spanish , Russian , Slovenian , Czech , English , Romanian , German , Hebrew , French , Hungarian , Swedish and Catalan .
+Other languages should appear later .
+Firefox has grown rapidly in popularity , with a Preview Release of the 1.0 version surpassing 10 million downloads in days .
+The browser has received critical acclaim by some magazines and is seen by many as a real competitor to Microsoft 's Internet Explorer , which currently holds over 90 % market share .
+Here 's what some reviewers have said about Firefox : The software 's website can be found at GetFirefox.com .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_14_17	Timex	-1_-1_-1	Depend-on
+3_2_5	Timex	-1_-1_-1	Depend-on
+6_25_25	Timex	0_0_3	Depend-on
+1_12_12	Event	1_14_17	included
+5_2_2	Event	0_0_3	before
+6_3_3	Event	0_0_3	before
+6_5_5	Event	0_0_3	before
+7_6_6	Event	0_0_3	before
+1_12_12	Event	-1_-1_-1	Depend-on
+5_2_2	Event	-1_-1_-1	Depend-on
+6_3_3	Event	-1_-1_-1	Depend-on
+6_5_5	Event	6_3_3	overlap
+7_6_6	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="77778" url="https://en.wikinews.org/wiki?curid=77778" title="Greece on fire, death toll exceeds 60"><paragraph:1_5_7_10_11_12_13_15_16_17_18_19_21_23>:SNT_LIST
+August 27 , 2007
+Fires continue to burn in Greece on Monday destroying everything in their path .
+Death toll has exceeded 60 with daily Greek newspapers `` Kathimerini '' and `` Ta Nea '' reporting 61 and 63 deaths respectively .
+Ancient Olympia , birthplace of the Olympics , was also threatened but firefighters kept the site safe .
+The new museum of Olympia was saved in the last minute but part of the ancient stadium was not spared .
+The Greek Government has offered a € 1 million reward for anyone providing information which leads to the arrest of an arsonist .
+A Greek government statement read : `` The reward is set between 100,000 and 1m euros for every -LSB- act -RSB- of arson , depending on whether death or serious injury occurred and the size of the damage . ''
+The Greek government is under severe criticism for not doing enough to combat the raging fires .
+Greek newspaper `` Ta Nea '' is reporting that the government is facing collapse accusing it of lacking an organized plan to combat the fires .
+It adds that there are tens of reports resulting from witnesses that demonstrate the ad hoc movement of fire fighting forces but also tragically , an absence of a plan for evacuating villages resulting in the unnecessarily increased death toll .
+Emergency workers and fire-fighting planes from other European Union countries have joined the battle against the fires , and more help is expected from countries outside the EU .
+Updated on August 26 , 2007 at 22:00 Arta : Under partial control .
+Pella : Kleisohori village in flames .
+Evros : Mikrakio in flames .
+Ilia : New fires in Prasidaki , Bartholomio , Makistos , Sekoula , Lalas , Leprea , Fanari .
+Messenia : Fires rage on in Tavgeto , Finikounta , Metaksades , Diavolitsi .
+Laconia : Fronts in the areas of : Geraki , Kallithea , Platanaki , Palaioxori , Oitilos , Aeropoli .
+Evia : Aliveri , Mesoxori , Traxili , Kremastos , Mistogeronta , Farana , Partheni , Gaia , Manikia .
+Zakynthos : Fire in Alikana .
+Arkadia : Araxomites , Asea , Leontari , Mavriki , Makrisi .
+Corinth : Improvement in sofiko , fires still burning in Kalentzi , Halki , Soulinari , Agia Triada , Milea .
+Argolis : Fire burning in the area of Lefkakia .
+Phthiotis : Perivoli , Asvestis , Dilofo , Zilefto .
+Thesprotia : Under partial control the fire in Tsamanda .
+Viotia : Kanalaki , Mazi .
+Corfu : New fire in the area of porta .
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_7_7	Timex	0_0_3	Depend-on
+11_2_5	Timex	-1_-1_-1	Depend-on
+11_7_7	Timex	11_2_5	included
+1_0_0	Event	1_7_7	included
+1_3_3	Event	1_7_7	included
+1_8_8	Event	1_7_7	included
+2_3_3	Event	1_7_7	included
+2_17_17	Event	0_0_3	before
+2_21_21	Event	0_0_3	before
+3_10_10	Event	0_0_3	before
+3_13_13	Event	0_0_3	before
+4_6_6	Event	0_0_3	before
+5_4_4	Event	0_0_3	before
+6_3_3	Event	0_0_3	before
+6_4_4	Event	0_0_3	before
+6_10_10	Event	0_0_3	before
+7_15_15	Event	0_0_3	overlap
+8_7_7	Event	0_0_3	overlap
+8_12_12	Event	0_0_3	overlap
+8_13_13	Event	0_0_3	overlap
+8_14_14	Event	0_0_3	overlap
+8_24_24	Event	0_0_3	overlap
+9_1_1	Event	0_0_3	overlap
+9_7_7	Event	0_0_3	overlap
+9_12_12	Event	0_0_3	overlap
+9_38_38	Event	0_0_3	overlap
+10_10_10	Event	0_0_3	before
+10_11_11	Event	0_0_3	before
+10_13_13	Event	0_0_3	before
+10_16_16	Event	0_0_3	overlap
+10_20_20	Event	0_0_3	after
+15_2_2	Event	0_0_3	overlap
+15_3_3	Event	0_0_3	overlap
+20_6_6	Event	0_0_3	overlap
+20_8_8	Event	0_0_3	overlap
+21_3_3	Event	0_0_3	overlap
+23_6_6	Event	0_0_3	overlap
+25_3_3	Event	0_0_3	overlap
+1_0_0	Event	-1_-1_-1	Depend-on
+1_3_3	Event	1_0_0	overlap
+1_8_8	Event	1_3_3	overlap
+2_3_3	Event	-1_-1_-1	Depend-on
+2_17_17	Event	-1_-1_-1	Depend-on
+2_21_21	Event	2_17_17	before
+3_10_10	Event	-1_-1_-1	Depend-on
+3_13_13	Event	3_10_10	overlap
+4_6_6	Event	-1_-1_-1	Depend-on
+5_4_4	Event	-1_-1_-1	Depend-on
+6_3_3	Event	-1_-1_-1	Depend-on
+6_4_4	Event	6_3_3	overlap
+6_10_10	Event	6_4_4	before
+7_15_15	Event	-1_-1_-1	Depend-on
+8_7_7	Event	7_15_15	overlap
+8_12_12	Event	8_7_7	overlap
+8_13_13	Event	8_12_12	overlap
+8_14_14	Event	8_13_13	before
+8_24_24	Event	8_14_14	before
+9_1_1	Event	8_7_7	after
+9_7_7	Event	9_1_1	overlap
+9_12_12	Event	9_7_7	overlap
+9_38_38	Event	9_7_7	before
+10_10_10	Event	-1_-1_-1	Depend-on
+10_11_11	Event	-1_-1_-1	Depend-on
+10_13_13	Event	10_11_11	overlap
+10_16_16	Event	10_13_13	overlap
+10_20_20	Event	-1_-1_-1	Depend-on
+15_2_2	Event	-1_-1_-1	Depend-on
+15_3_3	Event	15_2_2	overlap
+20_6_6	Event	-1_-1_-1	Depend-on
+20_8_8	Event	20_6_6	overlap
+21_3_3	Event	-1_-1_-1	Depend-on
+23_6_6	Event	-1_-1_-1	Depend-on
+25_3_3	Event	-1_-1_-1	Depend-on
+
+
+filename:<doc id="77792" url="https://en.wikinews.org/wiki?curid=77792" title="Cricket: England beat India in third one-day international"><paragraph:1_2_6_12_14_15>:SNT_LIST
+August 27 , 2007
+England have beaten India by 42 runs in the third One-Day International of the series at Edgbaston , Birmingham , England .
+India won the toss and captain Rahul Dravid chose to send England in to bat first .
+England posted a score of 281-8 after fifty overs .
+After a bright start from opening batsmen Alastair Cook and Matt Prior , who shared a partnership of 76 runs , England were restricted by the Indian bowlers and Kevin Pietersen was stumped by wicket-keeper Mahendra Singh Dhoni for just nine runs .
+Paul Collingwood scored 44 runs and Ian Bell finished on 79 , while R P Singh was the best performing Indian bowler with 3-55 .
+In response , India faltered early on when Sachin Tendulkar was dismissed for just eight runs followed by Dinesh Karthik an over later for a duck .
+However Rahul Dravid and Sourav Ganguly shared a 104 run partnership , with both batsmen reaching their fifty , which was ended when Dravid was bowled by Chris Tremlett for 56 .
+In his next over , Tremlett also removed Sourav Ganguly when he was caught behind for 72 .
+India 's run chase suffered further blows when Mahendra Singh Dhoni was dismissed for 13 and Yuvraj Singh run out for 45 .
+India were bowled out for 239 runs , 43 runs short of the target .
+James Anderson was the pick of the England bowlers , taking 3-32 .
+England lead the seven match series 2-1 .
+The fourth match will be played at Old Trafford , Manchester on August 30 .
+Toss : India won , and chose to field first .
+Fall of wickets : 1-76 -LRB- Prior , 13.4 ov -RRB- , 2-92 -LRB- Cook , 18.1 ov -RRB- , 3-118 -LRB- Pietersen , 23.6 ov -RRB- , 4-193 -LRB- Collingwood , 38.4 ov -RRB- , 5-226 -LRB- Shah , 43.2 ov -RRB- , 6-246 -LRB- Bopara , 45.3 ov -RRB- , 7-255 -LRB- Bell , 47.3 ov -RRB- , 8-273 -LRB- Broad , 49.3 ov -RRB- Did not bat : M S Panesar Fall of wickets : 1-35 -LRB- Tendulkar , 9.6 ov -RRB- , 2-36 -LRB- Karthik , 10.5 ov -RRB- , 3-140 -LRB- Dravid , 29.5 ov -RRB- , 4-149 -LRB- Ganguly , 31.5 ov -RRB- , 5-190 -LRB- Dhoni , 38.2 ov -RRB- , 6-210 -LRB- Powar , 42.1 ov -RRB- , 7-213 -LRB- Piyush Chawla , 42.5 ov -RRB- , 8-214 -LRB- Yuvraj Singh , 43.3 ov -RRB- , 9-234 -LRB- Khan , 47.1 ov -RRB- , 10-239 -LRB- Patel , 48.1 ov -RRB- England : A N Cook , M J Prior -LRB- wkt -RRB- , I R Bell , K P Pietersen , P D Collingwood -LRB- capt -RRB- , O A Shah , R S Bopara , S C J Broad , J M Anderson , C T Tremlett , M S Panesar <br> India : S R Tendulkar , S C Ganguly , Yuvraj Singh , R Dravid -LRB- capt -RRB- , K D Karthik , M S Dhoni -LRB- wkt -RRB- , R R Powar , Piyush Chawla , Z Khan , R P Singh , M M Patel <br> Man of the Match : I R Bell -LRB- England -RRB- <br> Umpires : M R Benson and B R Doctrove -LRB- West Indies -RRB- <br> TV Umpire : P J Hartley <br> Match Referee : R S Mahanama -LRB- Sri Lanka -RRB- <br> Reserve Umpire : N J Llong <br>
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+1_10_10	Timex	0_0_3	Depend-on
+13_12_13	Timex	0_0_3	Depend-on
+1_2_2	Event	0_0_3	before
+2_1_1	Event	0_0_3	before
+2_3_3	Event	0_0_3	before
+3_1_1	Event	0_0_3	before
+4_5_5	Event	0_0_3	before
+4_14_14	Event	0_0_3	before
+4_23_23	Event	0_0_3	before
+4_32_32	Event	0_0_3	before
+5_2_2	Event	0_0_3	before
+6_1_1	Event	0_0_3	before
+6_4_4	Event	0_0_3	before
+6_11_11	Event	0_0_3	before
+6_16_16	Event	0_0_3	before
+7_6_6	Event	0_0_3	before
+7_15_15	Event	0_0_3	before
+7_21_21	Event	0_0_3	before
+7_25_25	Event	0_0_3	before
+8_7_7	Event	0_0_3	before
+8_13_13	Event	0_0_3	before
+9_4_4	Event	0_0_3	before
+9_12_12	Event	0_0_3	before
+9_18_18	Event	0_0_3	before
+10_2_2	Event	0_0_3	before
+11_4_4	Event	0_0_3	before
+11_10_10	Event	0_0_3	before
+12_1_1	Event	0_0_3	before
+13_5_5	Event	13_12_13	included
+14_0_0	Event	0_0_3	before
+14_3_3	Event	0_0_3	before
+1_2_2	Event	-1_-1_-1	Depend-on
+2_1_1	Event	1_2_2	before
+2_3_3	Event	2_1_1	overlap
+3_1_1	Event	2_3_3	after
+4_5_5	Event	3_1_1	before
+4_14_14	Event	-1_-1_-1	Depend-on
+4_23_23	Event	4_5_5	after
+4_32_32	Event	4_23_23	after
+5_2_2	Event	4_5_5	after
+6_1_1	Event	5_2_2	after
+6_4_4	Event	6_1_1	overlap
+6_11_11	Event	6_4_4	overlap
+6_16_16	Event	6_11_11	after
+7_6_6	Event	-1_-1_-1	Depend-on
+7_15_15	Event	7_6_6	overlap
+7_21_21	Event	7_6_6	after
+7_25_25	Event	7_21_21	overlap
+8_7_7	Event	7_25_25	after
+8_13_13	Event	8_7_7	before
+9_4_4	Event	8_13_13	after
+9_12_12	Event	9_4_4	overlap
+9_18_18	Event	9_4_4	overlap
+10_2_2	Event	-1_-1_-1	Depend-on
+11_4_4	Event	-1_-1_-1	Depend-on
+11_10_10	Event	11_4_4	overlap
+12_1_1	Event	-1_-1_-1	Depend-on
+13_5_5	Event	12_1_1	after
+14_0_0	Event	1_2_2	before
+14_3_3	Event	14_0_0	overlap
+
+
+filename:<doc id="78046" url="https://en.wikinews.org/wiki?curid=78046" title="UEFA Champions League 2007/08: Celtic 1-1 Spartak Moscow"><paragraph:1_2_23_31_41_42_43_45>:SNT_LIST
+August 29 , 2007
+Celtic headed into this match knowing a goal would send them into the group stages .
+Celtic started well when Jan Vennegoor of Hesselink shouldered Shunsuke Nakamura 's cross over the bar after ten minutes .
+If the Dutchman had 've been more precise Celtic could 've controlled the game from the start .
+Five minutes later Scott McDonald played a one-two with Vennegoor of Hesselink who played a good short ball back which fell right for McDonald 's left foot but he agonisingly hit wide .
+It was n't all Celtic though .
+Spartak Moscow counter-attacked brilliantly and nearly scored 17 minuted in .
+Artur Boruc made a last-ditch save and Lee Naylor cleared after Vladimir Bystrov cut the ball back to Dmitri Torbinsky just outside the box .
+Just 60 seconds later Aiden McGeady hit a good shot wide of the Moscow goal .
+Then 25 minutes in , the referee made the worst decision of the match .
+Welliton , the Brazilian striker , shot straight at Artur Boruc and the ball bounced off him and hit Gary Caldwell 's grounded hand .
+The referee gave the penalty .
+There was nowhere for Caldwell to go and the penalty should not have been given .
+However Pavlyuchenko 's penalty hit the post .
+2 minutes later Celtic showed no signs of giving up .
+Scott McDonald scored his first Celtic goal after Massimo Donati 's shot deflected off a defender and fell for McDonald on his stronger right foot .
+He slotted it straight past the keeper to give Celtic a 1-0 lead .
+35 minutes into the match , Bystrov , who 'd been causing Celtic , mainly Lee Naylor , many problems , sprinted past Lee Naylor again and if it was n't for captain Stephen McManus blocking the shot , it could 've been 1-1 .
+Just before half time Spartak scored from a corner after scrappy Celtic defending .
+Vennegoor of Hesselink and Mark Wilson could n't clear the ball and Pavlyuchenko , who missed a penalty earlier , controlled and slotted the ball past a very angry Artur Boruc .
+In first half stoppage time , Bystrov powered down the left wing and Naylor gave away another corner , luckily though the referee blew his whistle .
+But that did n't stop Artur Boruc from going over to Lee Naylor and shouting at him .
+Lee Naylor hit back and if it was n't for Caldwell and McGeady breaking it up they could 've both been sent off .
+The second half started as lively as the first .
+Vennegoor of Hesselink was being held in the box in the 51st minute but no penalty was given .
+The next big chance was when the ball fell for Vennegoor of Hesselink in the 65th minute , he turned and dragged a point-blank shot wide .
+From the 77th minute onwards the game started to open up with McDonald and Vennegoor of Hesselink having two great chances before Nakamura had three chances in two minutes .
+In the 84th minute Nakamura had a chance to score a free-kick after Vennegoor of Hesselink was taken down by Martin Stranzl , 21 yards out from goal .
+Stranzl was then sent off by the referee and Spartak Moscow were left with ten men for the remainder of the match .
+Unfortunately Nakamura 's free-kick hit McDonald as it made it 's way toward the goal .
+Celtic and Spartak both had chances before the full time whistle went .
+Celtic were very attacking from the start of extra time .
+The man advantage seemed to be helping Celtic as McDonald and Vennegoor of Hesselink both missed good chances in the first five minutes .
+In the 99th minute Aiden McGeady made a good run down the right wing to find nobody in the box .
+Forced to make a shot , it ended it up going off for a throw in .
+Just before extra time half time Derek Riordan , who replaced McGeady , picked up the ball and slammed a brilliant shot just a yard wide on his European début .
+Five minutes into the second half of extra time , Maksym Kalynychenko hit a superb shot which Boruc got a vital touch to .
+The ball then went straight down to the Spartak box but Vennegoor of Hesselink could only hit into Stipe Pletikosa 's hands .
+In the 24th minute , Celtic were gifted a penalty after Scott Brown 's power shot struck Radoslav Kováč 's arm .
+Vennegoor smashed the penalty into the bar .
+Six minutes later the referee blew the whistle .
+The match was going to penalties .
+<br> <br> Penalty takers <br> Celtic <br> 1 -RRB- Caldwell <br> 2 -RRB- Nakamura <br> 3 -RRB- Vennegoor of Hesselink <br> 4 -RRB- Riordan <br> 5 -RRB- Zurawski <br> Spartak Moscow <br> 1 -RRB- Mozart <br> 2 -RRB- Titov <br> 3 -RRB- Pavlyuchenko <br> 4 -RRB- Şoava <br> 5 -RRB- Kalynychenko <br> Caldwell scored his penalty and Mozart equalised .
+Nakamura smashed his penalty against the bar but Boruc saved Titov 's .
+Vennegoor of Hesselink scored his penalty this time round and so too did Pavlyuchenko .
+Riordan scored the perfect penalty and Şoava scored his .
+Zurawski knocked his home and Kalynychenko had his saved by Boruc .
+Man of the Match <br> Artur Boruc
+EDGE_LIST
+0_0_3	Timex	-1_-1_-1	Depend-on
+9_1_2	Timex	0_0_3	Depend-on
+14_0_2	Timex	9_1_2	Depend-on
+17_0_1	Timex	0_0_3	Depend-on
+20_1_2	Timex	0_0_3	Depend-on
+23_0_2	Timex	0_0_3	Depend-on
+26_27_28	Timex	23_0_2	Depend-on
+32_21_22	Timex	23_0_2	Depend-on
+36_0_1	Timex	23_0_2	Depend-on
+36_3_5	Timex	0_0_3	Depend-on
+1_1_1	Event	0_0_3	before
+2_1_1	Event	0_0_3	before
+2_8_8	Event	0_0_3	before
+4_5_5	Event	0_0_3	before
+4_13_13	Event	0_0_3	before
+4_20_20	Event	0_0_3	before
+4_30_30	Event	0_0_3	before
+6_2_2	Event	0_0_3	before
+7_2_2	Event	0_0_3	before
+7_5_5	Event	0_0_3	before
+7_9_9	Event	0_0_3	before
+7_13_13	Event	0_0_3	before
+8_6_6	Event	0_0_3	before
+8_9_9	Event	0_0_3	before
+9_7_7	Event	9_1_2	included
+9_10_10	Event	9_1_2	included
+10_6_6	Event	0_0_3	before
+10_14_14	Event	0_0_3	before
+10_18_18	Event	0_0_3	before
+11_2_2	Event	0_0_3	before
+11_4_4	Event	0_0_3	before
+12_9_9	Event	0_0_3	before
+12_14_14	Event	0_0_3	before
+13_3_3	Event	0_0_3	before
+13_4_4	Event	0_0_3	before
+14_4_4	Event	0_0_3	before
+15_2_2	Event	0_0_3	before
+15_11_11	Event	0_0_3	before
+15_12_12	Event	0_0_3	before
+15_17_17	Event	0_0_3	before
+16_1_1	Event	0_0_3	before
+17_11_11	Event	0_0_3	before
+17_21_21	Event	17_0_1	included
+18_5_5	Event	0_0_3	before
+18_12_12	Event	0_0_3	before
+19_15_15	Event	0_0_3	before
+19_17_17	Event	0_0_3	before
+19_20_20	Event	0_0_3	before
+19_22_22	Event	0_0_3	before
+20_7_7	Event	20_1_2	included
+20_14_14	Event	20_1_2	included
+20_23_23	Event	20_1_2	included
+22_2_2	Event	0_0_3	before
+23_3_3	Event	23_0_2	included
+24_5_5	Event	0_0_3	before
+25_8_8	Event	0_0_3	before
+25_19_19	Event	0_0_3	before
+25_21_21	Event	0_0_3	before
+25_24_24	Event	0_0_3	before
+26_7_7	Event	26_27_28	included
+26_9_9	Event	26_27_28	included
+26_17_17	Event	26_27_28	included
+26_23_23	Event	26_27_28	included
+27_5_5	Event	0_0_3	before
+27_17_17	Event	0_0_3	before
+28_3_3	Event	0_0_3	before
+28_12_12	Event	0_0_3	before
+29_4_4	Event	0_0_3	before
+29_8_8	Event	0_0_3	before
+30_4_4	Event	0_0_3	before
+30_11_11	Event	0_0_3	before
+32_6_6	Event	32_21_22	included
+32_15_15	Event	32_21_22	included
+33_6_6	Event	0_0_3	before
+33_15_15	Event	0_0_3	before
+34_2_2	Event	0_0_3	before
+34_4_4	Event	0_0_3	before
+34_7_7	Event	0_0_3	before
+34_10_10	Event	0_0_3	before
+34_14_14	Event	0_0_3	before
+35_10_10	Event	0_0_3	before
+35_13_13	Event	0_0_3	before
+35_18_18	Event	0_0_3	before
+35_21_21	Event	0_0_3	before
+36_12_12	Event	36_0_1	included
+36_15_15	Event	36_0_1	included
+36_18_18	Event	36_0_1	included
+37_3_3	Event	0_0_3	before
+37_16_16	Event	0_0_3	before
+38_7_7	Event	0_0_3	before
+38_9_9	Event	0_0_3	before
+38_15_15	Event	0_0_3	before
+38_16_16	Event	0_0_3	before
+39_1_1	Event	0_0_3	before
+39_3_3	Event	0_0_3	before
+40_5_5	Event	0_0_3	before
+41_3_3	Event	0_0_3	before
+41_5_5	Event	0_0_3	before
+42_53_53	Event	0_0_3	before
+42_55_55	Event	0_0_3	before
+42_58_58	Event	0_0_3	before
+43_1_1	Event	0_0_3	before
+43_3_3	Event	0_0_3	before
+43_9_9	Event	0_0_3	before
+44_3_3	Event	0_0_3	before
+44_5_5	Event	0_0_3	before
+44_12_12	Event	0_0_3	before
+45_1_1	Event	0_0_3	before
+45_4_4	Event	0_0_3	before
+45_7_7	Event	0_0_3	before
+46_1_1	Event	0_0_3	before
+46_8_8	Event	0_0_3	before
+1_1_1	Event	-1_-1_-1	Depend-on
+2_1_1	Event	-1_-1_-1	Depend-on
+2_8_8	Event	2_1_1	overlap
+4_5_5	Event	2_8_8	after
+4_13_13	Event	4_5_5	after
+4_20_20	Event	4_13_13	after
+4_30_30	Event	4_20_20	after
+6_2_2	Event	4_30_30	after
+7_2_2	Event	6_2_2	after
+7_5_5	Event	7_2_2	overlap
+7_9_9	Event	7_5_5	after
+7_13_13	Event	7_9_9	before
+8_6_6	Event	7_9_9	after
+8_9_9	Event	8_6_6	overlap
+9_7_7	Event	8_9_9	after
+9_10_10	Event	9_7_7	overlap
+10_6_6	Event	9_7_7	overlap
+10_14_14	Event	10_6_6	after
+10_18_18	Event	10_14_14	after
+11_2_2	Event	10_18_18	after
+11_4_4	Event	11_2_2	overlap
+12_9_9	Event	11_4_4	overlap
+12_14_14	Event	12_9_9	overlap
+13_3_3	Event	12_9_9	overlap
+13_4_4	Event	13_3_3	overlap
+14_4_4	Event	13_4_4	after
+15_2_2	Event	14_4_4	after
+15_11_11	Event	15_2_2	before
+15_12_12	Event	15_11_11	overlap
+15_17_17	Event	15_12_12	after
+16_1_1	Event	15_17_17	after
+17_11_11	Event	-1_-1_-1	Depend-on
+17_21_21	Event	17_11_11	overlap
+18_5_5	Event	17_21_21	after
+18_12_12	Event	18_5_5	before
+19_15_15	Event	-1_-1_-1	Depend-on
+19_17_17	Event	19_15_15	overlap
+19_20_20	Event	19_15_15	after
+19_22_22	Event	19_20_20	overlap
+20_7_7	Event	19_22_22	after
+20_14_14	Event	20_7_7	after
+20_23_23	Event	20_14_14	after
+22_2_2	Event	20_23_23	after
+23_3_3	Event	22_2_2	after
+24_5_5	Event	23_3_3	after
+25_8_8	Event	24_5_5	after
+25_19_19	Event	25_8_8	after
+25_21_21	Event	25_19_19	after
+25_24_24	Event	25_21_21	overlap
+26_7_7	Event	25_24_24	after
+26_9_9	Event	26_7_7	overlap
+26_17_17	Event	26_7_7	overlap
+26_23_23	Event	26_17_17	after
+27_5_5	Event	26_23_23	after
+27_17_17	Event	27_5_5	before
+28_3_3	Event	27_5_5	after
+28_12_12	Event	27_5_5	after
+29_4_4	Event	28_12_12	after
+29_8_8	Event	29_4_4	overlap
+30_4_4	Event	29_8_8	after
+30_11_11	Event	30_4_4	after
+32_6_6	Event	-1_-1_-1	Depend-on
+32_15_15	Event	32_6_6	overlap
+33_6_6	Event	32_15_15	after
+33_15_15	Event	33_6_6	after
+34_2_2	Event	33_15_15	after
+34_4_4	Event	34_2_2	overlap
+34_7_7	Event	34_4_4	overlap
+34_10_10	Event	34_7_7	overlap
+34_14_14	Event	34_10_10	overlap
+35_10_10	Event	-1_-1_-1	Depend-on
+35_13_13	Event	35_10_10	after
+35_18_18	Event	35_13_13	after
+35_21_21	Event	35_18_18	overlap
+36_12_12	Event	35_21_21	after
+36_15_15	Event	36_12_12	overlap
+36_18_18	Event	36_15_15	overlap
+37_3_3	Event	36_18_18	after
+37_16_16	Event	37_3_3	after
+38_7_7	Event	37_16_16	after
+38_9_9	Event	38_7_7	overlap
+38_15_15	Event	38_9_9	before
+38_16_16	Event	38_15_15	overlap
+39_1_1	Event	38_7_7	after
+39_3_3	Event	39_1_1	overlap
+40_5_5	Event	39_3_3	after
+41_3_3	Event	40_5_5	overlap
+41_5_5	Event	41_3_3	overlap
+42_53_53	Event	40_5_5	after
+42_55_55	Event	42_53_53	overlap
+42_58_58	Event	42_55_55	after
+43_1_1	Event	42_58_58	after
+43_3_3	Event	43_1_1	overlap
+43_9_9	Event	43_3_3	after
+44_3_3	Event	43_9_9	after
+44_5_5	Event	44_3_3	overlap
+44_12_12	Event	44_5_5	after
+45_1_1	Event	44_12_12	after
+45_4_4	Event	45_1_1	overlap
+45_7_7	Event	45_4_4	after
+46_1_1	Event	45_7_7	after
+46_8_8	Event	46_1_1	after
+
+
