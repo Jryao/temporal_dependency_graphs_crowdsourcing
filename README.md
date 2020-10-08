@@ -1,6 +1,9 @@
 # Annotating Temporal Dependency Graphs via Crowdsourcing
 
-This repository contains the temporal dependency graph dataset.
+This repository contains the temporal dependency graph dataset as described in this paper: <br>
+**Annotating Temporal Dependency Graphs via Crowdsourcing** <br>
+Jiarui Yao, Haoling Qiu, Bonan Min and Nianwen Xue<br>
+To appear in EMNLP 2020.
 
 
 ## Data
