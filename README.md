@@ -1,9 +1,8 @@
 # Annotating Temporal Dependency Graphs via Crowdsourcing
 
-This repository contains the temporal dependency graph dataset as described in this paper: <br>
-**Annotating Temporal Dependency Graphs via Crowdsourcing** <br>
+This repository contains the temporal dependency graph dataset as described in this [paper](https://www.aclweb.org/anthology/2020.emnlp-main.432.pdf): <br>
+**Annotating Temporal Dependency Graphs via Crowdsourcing**<br>
 Jiarui Yao, Haoling Qiu, Bonan Min and Nianwen Xue<br>
-To appear in EMNLP 2020.
 
 
 ## Data
@@ -33,3 +32,22 @@ You can find our annotation guidelines in `guidelines_and_example_questions/`, w
 
 ## Additional Resource
 The `generic_event.whitelist.wn-fn.variants` file contains a list of common event trigger words. We use this list to extract possible events in the 3rd pass annotation.
+
+
+## Citation
+If you find this dataset useful, please cite our paper:
+```latex
+@inproceedings{yao-etal-2020-annotating,
+    title = {A}nnotating {T}emporal {D}ependency {G}raphs via {C}rowdsourcing,
+    author = Yao, Jiarui  and
+      Qiu, Haoling  and
+      Min, Bonan  and
+      Xue, Nianwen,
+    booktitle = Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),
+    month = nov,
+    year = 2020,
+    address = Online,
+    publisher = Association for Computational Linguistics,
+    url = https://www.aclweb.org/anthology/2020.emnlp-main.432,
+    pages = 5368--5380
+}
